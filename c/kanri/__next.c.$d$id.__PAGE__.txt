@@ -1,0 +1,33 @@
+2:"$Sreact.fragment"
+3:"/enjin-wiki-demo/_next/static/chunks/09ikke4fnd9ho.js"
+4:I[95853,["$3"],"default"]
+5:I[40640,["$3"],"default"]
+c:"/enjin-wiki-demo/_next/static/chunks/2w18rx4jsg31u.js"
+d:I[72864,["$3","$c"],""]
+e:I[25527,["$3","$c"],"default"]
+13:"ViewportBoundary"
+14:I[97619,["$3"],"$13"]
+15:"MetadataBoundary"
+16:I[97619,["$3"],"$15"]
+17:"$Sreact.suspense"
+18:I[5153,["$3"],"IconMark"]
+7:X
+7:C
+8:X
+b:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[["$","main",null,{"children":[["$","section",null,{"className":"hero flex flex-col items-center justify-center px-4 text-center min-h-[11rem] py-9 sm:min-h-[15rem] sm:py-12","children":[["$","p",null,{"className":"mb-1 text-sm tracking-[.2em] text-white/85 sm:mb-2 sm:text-lg sm:tracking-[.25em]","children":"Manager"}],["$","h1",null,{"className":"font-bold drop-shadow text-[1.7rem] leading-snug sm:text-5xl tracking-[.06em] sm:tracking-[.2em]","style":{"textWrap":"balance"},"children":"管理職"}],["$","p",null,{"className":"mt-3 text-xs tracking-[.2em] text-white/75","children":["‹ ","Evaluation + Rules"," ›"]}],"$undefined"]}],["$","nav",null,{"aria-label":"現在地","className":"crumb-band px-4 py-4","children":["$","ol",null,{"className":"mx-auto flex max-w-6xl flex-wrap items-center gap-2 text-[13px]","children":[["$","li","0",{"className":"flex items-center gap-2","children":[false,["$","$Ld",null,{"href":"/","className":"crumb-link","children":"TOP"}]]}],["$","li","1",{"className":"flex items-center gap-2","children":[["$","span",null,{"aria-hidden":true,"children":">"}],["$","span",null,{"children":"管理職"}]]}]]}]}],["$","section",null,{"className":"bg-[var(--band)] px-4 py-5 text-white sm:py-7","children":["$","div",null,{"className":"mx-auto grid max-w-6xl gap-3 md:grid-cols-[10rem_1fr] md:gap-4","children":[["$","p",null,{"className":"label-en !text-white/80","children":"INDEX"}],["$","ul",null,{"className":"no-scrollbar -mx-4 flex gap-2 overflow-x-auto px-4 sm:mx-0 sm:grid sm:grid-cols-2 sm:gap-x-6 sm:gap-y-2 sm:overflow-visible sm:px-0 lg:grid-cols-3","children":[["$","li","評価・報酬",{"className":"shrink-0","children":["$","a",null,{"href":"#%E8%A9%95%E4%BE%A1%E3%83%BB%E5%A0%B1%E9%85%AC","className":"chip-dark whitespace-nowrap","children":"評価・報酬"}]}],["$","li","数字のルール",{"className":"shrink-0","children":["$","a",null,{"href":"#%E6%95%B0%E5%AD%97%E3%81%AE%E3%83%AB%E3%83%BC%E3%83%AB","className":"chip-dark whitespace-nowrap","children":"数字のルール"}]}]]}]]}]}],["$","div",null,{"className":"mx-auto max-w-6xl px-4 pt-6 sm:pt-10","children":[["$","div",null,{"data-locked":"manager","className":"mx-auto my-10 flex max-w-xl flex-col items-center gap-3 rounded-2xl border border-[#dad8d8] bg-white px-6 py-10 text-center shadow-[0_1px_2px_rgba(0,0,0,.05)]","children":[["$","span",null,{"className":"grid size-14 place-items-center rounded-full bg-[var(--mgr)] text-[var(--brand)]","aria-hidden":true,"children":["$","svg",null,{"viewBox":"0 0 24 24","className":"size-7","fill":"none","stroke":"currentColor","strokeWidth":"2","strokeLinecap":"round","children":[["$","rect",null,{"x":"4","y":"11","width":"16","height":"10","rx":"2"}],["$","path",null,{"d":"M8 11V7a4 4 0 0 1 8 0v4"}]]}]}],["$","p",null,{"className":"label-en","children":"MEMBERS ONLY"}],["$","p",null,{"className":"text-[17px] font-bold","children":["このページは","管理職","だけが見られます"]}],["$","p",null,{"className":"text-[14px] text-[var(--mute)]","children":["デモでは、右上の切り替えで「","管理職","」を選ぶと見えます。"]}]]}],["$","div",null,{"data-only":"manager","className":"","children":["$","div",null,{"className":"flex flex-col gap-10 sm:gap-12","children":[["$","p",null,{"className":"text-[15px] text-[var(--mute)]","children":"評価・インセンティブ・計上。管理職だけに見える"}],"$undefined",[["$","section","評価・報酬",{"id":"評価・報酬","className":"scroll-mt-20","children":[["$","h2",null,{"className":"head-bar mb-4 flex items-baseline justify-between","children":["評価・報酬",["$","span",null,{"className":"text-xs font-normal tracking-normal text-[var(--mute)]","children":[3,"ページ"]}]]}],["$","$Le",null,{"items":[{"slug":"hyoka","title":"評価制度","layer":"manager","status":"written","gist":""},{"slug":"incentive","title":"インセンティブ","layer":"manager","status":"written","gist":""},{"slug":"hyoka-kanri","title":"始末書・罰則と評価の運用（管理職向け）","layer":"manager","status":"written","gist":""}]}]]}],["$","section","数字のルール",{"id":"数字のルール","className":"scroll-mt-20","children":[["$","h2",null,{"className":"head-bar mb-4 flex items-baseline justify-between","children":["数字のルール",["$","span",null,{"className":"text-xs font-normal tracking-normal text-[var(--mute)]","children":[2,"ページ"]}]]}],"$Lf"]}]]]}]}]]}]]}],["$L10"],"$L11"]}],"p":"$@12","v":null,"s":"$8"}}]]
+9:[["children",{"s":{"n":"id","t":"d","k":"kanri","s":[]},"h":96,"d":{"r":["$","$2","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}],"p":"$@a","v":"$7","s":"$8"},"c":"$Qb"}]]
+1:[["children",{"s":"c","h":64,"d":{"r":["$","$2","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}],"p":"$@6","v":"$7","s":"$8"},"c":"$Q9"}]]
+0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[null,["$","$L14",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L16",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$17",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"管理職｜Enjin WIKI"}],["$","meta","1",{"name":"description","content":"Enjin Latest encyclopedia（デモ）"}],["$","link","2",{"rel":"icon","href":"/enjin-wiki-demo/icon.svg?icon.29mgbamraqu0i.svg","sizes":"any","type":"image/svg+xml"}],["$","$L18","3",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@19","v":null,"s":"$8"}},"a":"$@1a","u":"$@1b","b":"S50NXu4v03Dm4Y4Pmm8Nb"}
+1c:I[97619,["$3"],"OutletBoundary"]
+f:["$","$Le",null,{"items":[{"slug":"keijo","title":"計上のルール","layer":"manager","status":"written","gist":""},{"slug":"uwabure","title":"上振れ20%ルール","layer":"manager","status":"written","gist":""}]}]
+10:["$","script","script-0",{"src":"/enjin-wiki-demo/_next/static/chunks/2w18rx4jsg31u.js","async":true}]
+11:["$","$L1c",null,{"children":["$","$17",null,{"name":"Next.MetadataOutlet","children":"$@1d"}]}]
+1b:true
+8:300
+1d:null
+8:C
+1a:0
+a:"$undefined"
+6:"$undefined"
+19:"$undefined"
+12:"$undefined"

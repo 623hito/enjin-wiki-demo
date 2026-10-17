@@ -1,0 +1,36 @@
+2:"$Sreact.fragment"
+3:"/enjin-wiki-demo/_next/static/chunks/09ikke4fnd9ho.js"
+4:I[95853,["$3"],"default"]
+5:I[40640,["$3"],"default"]
+c:"/enjin-wiki-demo/_next/static/chunks/05z0oufbsnyby.js"
+d:I[72864,["$3","$c"],""]
+e:I[91231,["$3","$c"],"ReadButton"]
+14:"ViewportBoundary"
+15:I[97619,["$3"],"$14"]
+16:"MetadataBoundary"
+17:I[97619,["$3"],"$16"]
+18:"$Sreact.suspense"
+19:I[5153,["$3"],"IconMark"]
+7:X
+7:C
+8:X
+b:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[["$","main",null,{"children":[["$","section",null,{"className":"hero flex flex-col items-center justify-center px-4 text-center min-h-[11rem] py-9 sm:min-h-[15rem] sm:py-12","children":[["$","p",null,{"className":"mb-1 text-sm tracking-[.2em] text-white/85 sm:mb-2 sm:text-lg sm:tracking-[.25em]","children":"Media"}],["$","h1",null,{"className":"font-bold drop-shadow text-[1.7rem] leading-snug sm:text-5xl tracking-[.06em] sm:tracking-[.2em]","style":{"textWrap":"balance"},"children":"医療系テレビ"}],"$undefined","$undefined"]}],["$","nav",null,{"aria-label":"現在地","className":"crumb-band px-4 py-4","children":["$","ol",null,{"className":"mx-auto flex max-w-6xl flex-wrap items-center gap-2 text-[13px]","children":[["$","li","0",{"className":"flex items-center gap-2","children":[false,["$","$Ld",null,{"href":"/","className":"crumb-link","children":"TOP"}]]}],["$","li","1",{"className":"flex items-center gap-2","children":[["$","span",null,{"aria-hidden":true,"children":">"}],["$","$Ld",null,{"href":"/c/baitai/","className":"crumb-link","children":"媒体辞典"}]]}],["$","li","2",{"className":"flex items-center gap-2","children":[["$","span",null,{"aria-hidden":true,"children":">"}],["$","$Ld",null,{"href":"/c/baitai/#%E3%83%86%E3%83%AC%E3%83%93","className":"crumb-link","children":"テレビ"}]]}],["$","li","3",{"className":"flex items-center gap-2","children":[["$","span",null,{"aria-hidden":true,"children":">"}],["$","span",null,{"children":"医療系テレビ"}]]}]]}]}],null,[false,["$","div",null,{"className":"mx-auto max-w-6xl px-4 pt-10","children":[["$","section",null,{"className":"grid items-start gap-8 ","children":[false,["$","div",null,{"className":"prose-wiki overview-box","dangerouslySetInnerHTML":{"__html":"<blockquote>\n<p>公開デモのため本文は伏せています。見出しだけ表示しています。</p>\n</blockquote>"}}]]}],["$","div",null,{"className":"mt-12 flex flex-col gap-14","children":[["$","section","s1",{"id":"s1","className":"scroll-mt-20","children":[["$","h2",null,{"className":"head-bar flex items-baseline","children":[["$","span",null,{"className":"sec-no","children":"01"}],"このページの見出し"]}],["$","div",null,{"className":"prose-wiki px-1 pt-5","dangerouslySetInnerHTML":{"__html":"\n<ul>\n<li>ひとことで</li>\n<li>概要</li>\n<li>公開日・スケジュール</li>\n<li>取材</li>\n<li>継続・二次利用</li>\n<li>放映報告漏れ</li>\n<li>共通ルールとの違い</li>\n<li>問い合わせ先</li>\n</ul>\n"}}]]}]]}],["$","section",null,{"className":"mt-16 flex flex-col gap-5 border-t border-[#c4c3c3] pt-6","children":[["$","div",null,{"className":"flex flex-wrap items-center gap-4","children":[["$","$Le",null,{"slug":"tv-doctor"}],[]]}],["$","div",null,{"className":"grid gap-3 sm:grid-cols-2","children":[["$","$Ld",null,{"href":"/p/tv-studio/","className":"btn-light no-arrow !justify-start gap-2","children":[["$","span",null,{"className":"text-[var(--mute)]","children":"＜ 前へ"}],["$","span",null,{"className":"font-bold","children":"スタジオ収録テレビ"}]]}],"$undefined"]}]]}],["$","section",null,{"className":"mt-10","children":[["$","h2",null,{"className":"head-bar mb-4 !text-base","children":"テレビ"}],["$","div",null,{"className":"grid grid-cols-2 gap-3 md:grid-cols-3","children":[["$","$Ld","tv-location",{"href":"/p/tv-location/","className":"btn-light !justify-start !text-left ","children":"ロケ有テレビ"}],["$","$Ld","tv-studio",{"href":"/p/tv-studio/","className":"btn-light !justify-start !text-left ","children":"スタジオ収録テレビ"}],["$","$Ld","tv-doctor",{"href":"/p/tv-doctor/","className":"btn-light !justify-start !text-left !border-[var(--brand)] !text-[var(--brand)] ring-1 ring-[var(--brand)]","children":"医療系テレビ"}]]}]]}],["$","section",null,{"className":"mt-10 flex flex-col gap-3 text-sm text-[var(--mute)] sm:flex-row sm:items-start sm:justify-between","children":[["$","dl",null,{"className":"grid grid-cols-[auto_1fr] gap-x-4 gap-y-1","children":[["$","dt",null,{"children":"担当"}],["$","dd",null,{"className":"font-bold text-[var(--ink)]","children":"PM事業部 クリエイティブ課"}],["$","dt",null,{"children":"最終確認"}],["$","dd",null,{"children":"—"}],["$","dt",null,{"children":"状態"}],["$","dd",null,{"children":["本文あり",""]}],["$","dt",null,{"children":"元の情報"}],["$","dd",null,{"children":"旧WIKI「医療系テレビ」"}],[["$","dt",null,{"children":"別の呼び方"}],["$","dd",null,{"children":"医療系テレビ、医療テレビ、スーパードクター、Doctor's eye、ドクターズアイ、ベターライフチャンネル、BS11、BS12、チバテレ、テレ玉、医療広報番組"}]]]}],"$Lf"]}]]}]],"$L10"]}],["$L11"],"$L12"]}],"p":"$@13","v":null,"s":"$8"}}]]
+9:[["children",{"s":{"n":"slug","t":"d","k":"tv-doctor","s":[]},"h":96,"d":{"r":["$","$2","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}],"p":"$@a","v":"$7","s":"$8"},"c":"$Qb"}]]
+1:[["children",{"s":"p","h":64,"d":{"r":["$","$2","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}],"p":"$@6","v":"$7","s":"$8"},"c":"$Q9"}]]
+0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[null,["$","$L15",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L17",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$18",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"医療系テレビ｜Enjin WIKI"}],["$","meta","1",{"name":"description","content":"Enjin Latest encyclopedia（デモ）"}],["$","link","2",{"rel":"icon","href":"/enjin-wiki-demo/icon.svg?icon.29mgbamraqu0i.svg","sizes":"any","type":"image/svg+xml"}],["$","$L19","3",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@1a","v":null,"s":"$8"}},"a":"$@1b","u":"$@1c","b":"S50NXu4v03Dm4Y4Pmm8Nb"}
+1d:I[15373,["$3","$c"],"default"]
+1e:I[35631,["$3","$c"],"default"]
+1f:I[97619,["$3"],"OutletBoundary"]
+f:["$","$L1d",null,{}]
+10:["$","$L1e",null,{}]
+11:["$","script","script-0",{"src":"/enjin-wiki-demo/_next/static/chunks/05z0oufbsnyby.js","async":true}]
+12:["$","$L1f",null,{"children":["$","$18",null,{"name":"Next.MetadataOutlet","children":"$@20"}]}]
+1c:true
+8:300
+20:null
+8:C
+1b:0
+a:"$undefined"
+6:"$undefined"
+1a:"$undefined"
+13:"$undefined"

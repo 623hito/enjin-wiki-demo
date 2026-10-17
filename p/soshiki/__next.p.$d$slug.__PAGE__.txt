@@ -1,0 +1,39 @@
+2:"$Sreact.fragment"
+3:"/enjin-wiki-demo/_next/static/chunks/09ikke4fnd9ho.js"
+4:I[95853,["$3"],"default"]
+5:I[40640,["$3"],"default"]
+c:"/enjin-wiki-demo/_next/static/chunks/05z0oufbsnyby.js"
+d:I[72864,["$3","$c"],""]
+e:I[91231,["$3","$c"],"ReadButton"]
+17:"ViewportBoundary"
+18:I[97619,["$3"],"$17"]
+19:"MetadataBoundary"
+1a:I[97619,["$3"],"$19"]
+1b:"$Sreact.suspense"
+1c:I[5153,["$3"],"IconMark"]
+7:X
+7:C
+8:X
+b:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[["$","main",null,{"children":[["$","section",null,{"className":"hero flex flex-col items-center justify-center px-4 text-center min-h-[11rem] py-9 sm:min-h-[15rem] sm:py-12","children":[["$","p",null,{"className":"mb-1 text-sm tracking-[.2em] text-white/85 sm:mb-2 sm:text-lg sm:tracking-[.25em]","children":"Company & Work"}],["$","h1",null,{"className":"font-bold drop-shadow text-[1.7rem] leading-snug sm:text-5xl tracking-[.06em] sm:tracking-[.2em]","style":{"textWrap":"balance"},"children":"組織と問い合わせ先"}],"$undefined","$undefined"]}],["$","nav",null,{"aria-label":"現在地","className":"crumb-band px-4 py-4","children":["$","ol",null,{"className":"mx-auto flex max-w-6xl flex-wrap items-center gap-2 text-[13px]","children":[["$","li","0",{"className":"flex items-center gap-2","children":[false,["$","$Ld",null,{"href":"/","className":"crumb-link","children":"TOP"}]]}],["$","li","1",{"className":"flex items-center gap-2","children":[["$","span",null,{"aria-hidden":true,"children":">"}],["$","$Ld",null,{"href":"/c/kaisha/","className":"crumb-link","children":"会社と働き方"}]]}],["$","li","2",{"className":"flex items-center gap-2","children":[["$","span",null,{"aria-hidden":true,"children":">"}],["$","$Ld",null,{"href":"/c/kaisha/#%E4%BC%9A%E7%A4%BE%E3%81%AE%E3%81%93%E3%81%A8","className":"crumb-link","children":"会社のこと"}]]}],["$","li","3",{"className":"flex items-center gap-2","children":[["$","span",null,{"aria-hidden":true,"children":">"}],["$","span",null,{"children":"組織と問い合わせ先"}]]}]]}]}],null,[false,["$","div",null,{"className":"mx-auto max-w-6xl px-4 pt-10","children":[["$","section",null,{"className":"grid items-start gap-8 ","children":[false,["$","div",null,{"className":"prose-wiki overview-box","dangerouslySetInnerHTML":{"__html":"<blockquote>\n<p>公開デモのため本文は伏せています。見出しだけ表示しています。</p>\n</blockquote>"}}]]}],["$","div",null,{"className":"mt-12 flex flex-col gap-14","children":[["$","section","s1",{"id":"s1","className":"scroll-mt-20","children":[["$","h2",null,{"className":"head-bar flex items-baseline","children":[["$","span",null,{"className":"sec-no","children":"01"}],"このページの見出し"]}],["$","div",null,{"className":"prose-wiki px-1 pt-5","dangerouslySetInnerHTML":{"__html":"\n<ul>\n<li>ひとことで</li>\n<li>電話帳</li>\n<li>困りごと → 窓口</li>\n<li>メーリングリスト</li>\n<li>全社への発信チャネル（誰が何を投稿するか）</li>\n<li>旧WIKIの各ページの担当</li>\n<li>このWIKIについて</li>\n<li>よくある質問</li>\n<li>よく使うツール・関連サイト（旧WIKI「TOP」より）</li>\n</ul>\n"}}]]}]]}],["$","section",null,{"className":"mt-16 flex flex-col gap-5 border-t border-[#c4c3c3] pt-6","children":[["$","div",null,{"className":"flex flex-wrap items-center gap-4","children":[["$","$Le",null,{"slug":"soshiki"}],[["$","$Ld","zensha",{"href":"/learn/zensha/","className":"chip","children":["学ぶ：","入社1週目（全員）","・","1週目のうちに"]}]]]}],["$","div",null,{"className":"grid gap-3 sm:grid-cols-2","children":[["$","$Ld",null,{"href":"/p/chat-mail/","className":"btn-light no-arrow !justify-start gap-2","children":[["$","span",null,{"className":"text-[var(--mute)]","children":"＜ 前へ"}],["$","span",null,{"className":"font-bold","children":"チャットとメールのルール"}]]}],["$","$Ld",null,{"href":"/p/glossary/","className":"btn-light no-arrow !justify-end gap-2","children":[["$","span",null,{"className":"font-bold","children":"用語集"}],["$","span",null,{"className":"text-[var(--mute)]","children":"次へ ＞"}]]}]]}]]}],["$","section",null,{"className":"mt-10","children":[["$","h2",null,{"className":"head-bar mb-4 !text-base","children":"会社のこと"}],["$","div",null,{"className":"grid grid-cols-2 gap-3 md:grid-cols-3","children":[["$","$Ld","enjin-way",{"href":"/p/enjin-way/","className":"btn-light !justify-start !text-left ","children":"Enjin Way（代表のメッセージ）"}],["$","$Ld","standard",{"href":"/p/standard/","className":"btn-light !justify-start !text-left ","children":"Enjin Standard（姿勢のルール）"}],["$","$Ld","chat-mail",{"href":"/p/chat-mail/","className":"btn-light !justify-start !text-left ","children":"チャットとメールのルール"}],["$","$Ld","soshiki",{"href":"/p/soshiki/","className":"btn-light !justify-start !text-left !border-[var(--brand)] !text-[var(--brand)] ring-1 ring-[var(--brand)]","children":"組織と問い合わせ先"}],"$Lf","$L10","$L11"]}]]}],"$L12"]}]],"$L13"]}],["$L14"],"$L15"]}],"p":"$@16","v":null,"s":"$8"}}]]
+9:[["children",{"s":{"n":"slug","t":"d","k":"soshiki","s":[]},"h":96,"d":{"r":["$","$2","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}],"p":"$@a","v":"$7","s":"$8"},"c":"$Qb"}]]
+1:[["children",{"s":"p","h":64,"d":{"r":["$","$2","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}],"p":"$@6","v":"$7","s":"$8"},"c":"$Q9"}]]
+0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[null,["$","$L18",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L1a",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$1b",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"組織と問い合わせ先｜Enjin WIKI"}],["$","meta","1",{"name":"description","content":"Enjin Latest encyclopedia（デモ）"}],["$","link","2",{"rel":"icon","href":"/enjin-wiki-demo/icon.svg?icon.29mgbamraqu0i.svg","sizes":"any","type":"image/svg+xml"}],["$","$L1c","3",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@1d","v":null,"s":"$8"}},"a":"$@1e","u":"$@1f","b":"S50NXu4v03Dm4Y4Pmm8Nb"}
+20:I[15373,["$3","$c"],"default"]
+21:I[35631,["$3","$c"],"default"]
+22:I[97619,["$3"],"OutletBoundary"]
+f:["$","$Ld","glossary",{"href":"/p/glossary/","className":"btn-light !justify-start !text-left ","children":"用語集"}]
+10:["$","$Ld","ai-rule",{"href":"/p/ai-rule/","className":"btn-light !justify-start !text-left ","children":"生成AIの利用ルール"}]
+11:["$","$Ld","kitei",{"href":"/p/kitei/","className":"btn-light !justify-start !text-left ","children":"規程・資料"}]
+12:["$","section",null,{"className":"mt-10 flex flex-col gap-3 text-sm text-[var(--mute)] sm:flex-row sm:items-start sm:justify-between","children":[["$","dl",null,{"className":"grid grid-cols-[auto_1fr] gap-x-4 gap-y-1","children":[["$","dt",null,{"children":"担当"}],["$","dd",null,{"className":"font-bold text-[var(--ink)]","children":"社長室"}],["$","dt",null,{"children":"最終確認"}],["$","dd",null,{"children":"—"}],["$","dt",null,{"children":"状態"}],["$","dd",null,{"children":["本文あり",""]}],["$","dt",null,{"children":"元の情報"}],["$","dd",null,{"children":"新しいページ"}],[["$","dt",null,{"children":"別の呼び方"}],["$","dd",null,{"children":"組織情報、電話帳、問い合わせ先、問合せ先、窓口、連絡先、誰に聞けばいい、担当者、メーリングリスト、ML、宛先、管理部、経理、労務、人事部、コーポレート、マネアシ、アシスタント、product@、WIKIの内容を変更したい、WIKIの編集権限が欲しい、WIKIのフォント"}]]]}],["$","$L20",null,{}]]}]
+13:["$","$L21",null,{}]
+14:["$","script","script-0",{"src":"/enjin-wiki-demo/_next/static/chunks/05z0oufbsnyby.js","async":true}]
+15:["$","$L22",null,{"children":["$","$1b",null,{"name":"Next.MetadataOutlet","children":"$@23"}]}]
+1f:true
+8:300
+23:null
+8:C
+1e:0
+a:"$undefined"
+6:"$undefined"
+1d:"$undefined"
+16:"$undefined"

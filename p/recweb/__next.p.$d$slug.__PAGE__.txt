@@ -1,0 +1,42 @@
+2:"$Sreact.fragment"
+3:"/enjin-wiki-demo/_next/static/chunks/09ikke4fnd9ho.js"
+4:I[95853,["$3"],"default"]
+5:I[40640,["$3"],"default"]
+c:"/enjin-wiki-demo/_next/static/chunks/05z0oufbsnyby.js"
+d:I[72864,["$3","$c"],""]
+e:I[91231,["$3","$c"],"ReadButton"]
+1a:"ViewportBoundary"
+1b:I[97619,["$3"],"$1a"]
+1c:"MetadataBoundary"
+1d:I[97619,["$3"],"$1c"]
+1e:"$Sreact.suspense"
+1f:I[5153,["$3"],"IconMark"]
+7:X
+7:C
+8:X
+b:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[["$","main",null,{"children":[["$","section",null,{"className":"hero flex flex-col items-center justify-center px-4 text-center min-h-[11rem] py-9 sm:min-h-[15rem] sm:py-12","children":[["$","p",null,{"className":"mb-1 text-sm tracking-[.2em] text-white/85 sm:mb-2 sm:text-lg sm:tracking-[.25em]","children":"Media"}],["$","h1",null,{"className":"font-bold drop-shadow text-[1.7rem] leading-snug sm:text-5xl tracking-[.06em] sm:tracking-[.2em]","style":{"textWrap":"balance"},"children":"REC web"}],"$undefined","$undefined"]}],["$","nav",null,{"aria-label":"現在地","className":"crumb-band px-4 py-4","children":["$","ol",null,{"className":"mx-auto flex max-w-6xl flex-wrap items-center gap-2 text-[13px]","children":[["$","li","0",{"className":"flex items-center gap-2","children":[false,["$","$Ld",null,{"href":"/","className":"crumb-link","children":"TOP"}]]}],["$","li","1",{"className":"flex items-center gap-2","children":[["$","span",null,{"aria-hidden":true,"children":">"}],["$","$Ld",null,{"href":"/c/baitai/","className":"crumb-link","children":"媒体辞典"}]]}],["$","li","2",{"className":"flex items-center gap-2","children":[["$","span",null,{"aria-hidden":true,"children":">"}],["$","$Ld",null,{"href":"/c/baitai/#Web","className":"crumb-link","children":"Web"}]]}],["$","li","3",{"className":"flex items-center gap-2","children":[["$","span",null,{"aria-hidden":true,"children":">"}],["$","span",null,{"children":"REC web"}]]}]]}]}],null,[false,["$","div",null,{"className":"mx-auto max-w-6xl px-4 pt-10","children":[["$","section",null,{"className":"grid items-start gap-8 ","children":[false,["$","div",null,{"className":"prose-wiki overview-box","dangerouslySetInnerHTML":{"__html":"<blockquote>\n<p>公開デモのため本文は伏せています。見出しだけ表示しています。</p>\n</blockquote>"}}]]}],["$","div",null,{"className":"mt-12 flex flex-col gap-14","children":[["$","section","s1",{"id":"s1","className":"scroll-mt-20","children":[["$","h2",null,{"className":"head-bar flex items-baseline","children":[["$","span",null,{"className":"sec-no","children":"01"}],"このページの見出し"]}],["$","div",null,{"className":"prose-wiki px-1 pt-5","dangerouslySetInnerHTML":{"__html":"\n<ul>\n<li>ひとことで</li>\n<li>概要</li>\n<li>掲載条件・考査</li>\n<li>公開日・スケジュール</li>\n<li>構成</li>\n<li>進め方（インタビューシート・公開確認）</li>\n<li>取材</li>\n<li>継続・二次利用</li>\n<li>共通ルールとの違い</li>\n</ul>\n"}}]]}]]}],["$","section",null,{"className":"mt-16 flex flex-col gap-5 border-t border-[#c4c3c3] pt-6","children":[["$","div",null,{"className":"flex flex-wrap items-center gap-4","children":[["$","$Le",null,{"slug":"recweb"}],[]]}],["$","div",null,{"className":"grid gap-3 sm:grid-cols-2","children":[["$","$Ld",null,{"href":"/p/myroad/","className":"btn-light no-arrow !justify-start gap-2","children":[["$","span",null,{"className":"text-[var(--mute)]","children":"＜ 前へ"}],["$","span",null,{"className":"font-bold","children":"道しるべ"}]]}],["$","$Ld",null,{"href":"/p/businessfrontiers/","className":"btn-light no-arrow !justify-end gap-2","children":[["$","span",null,{"className":"font-bold","children":"BUSINESS FRONTIERS"}],["$","span",null,{"className":"text-[var(--mute)]","children":"次へ ＞"}]]}]]}]]}],["$","section",null,{"className":"mt-10","children":[["$","h2",null,{"className":"head-bar mb-4 !text-base","children":"Web"}],["$","div",null,{"className":"grid grid-cols-2 gap-3 md:grid-cols-3","children":[["$","$Ld","kenja",{"href":"/p/kenja/","className":"btn-light !justify-start !text-left ","children":"KENJA"}],["$","$Ld","kakugo",{"href":"/p/kakugo/","className":"btn-light !justify-start !text-left ","children":"覚悟の瞬間"}],["$","$Ld","myroad",{"href":"/p/myroad/","className":"btn-light !justify-start !text-left ","children":"道しるべ"}],["$","$Ld","recweb",{"href":"/p/recweb/","className":"btn-light !justify-start !text-left !border-[var(--brand)] !text-[var(--brand)] ring-1 ring-[var(--brand)]","children":"REC web"}],["$","$Ld","businessfrontiers",{"href":"/p/businessfrontiers/","className":"btn-light !justify-start !text-left ","children":"BUSINESS FRONTIERS"}],["$","$Ld","challenger",{"href":"/p/challenger/","className":"btn-light !justify-start !text-left ","children":"CHALLENGER"}],["$","$Ld","challenginginnovator",{"href":"/p/challenginginnovator/","className":"btn-light !justify-start !text-left ","children":"CHALLENGING INNOVATOR"}],"$Lf","$L10","$L11","$L12","$L13","$L14"]}]]}],"$L15"]}]],"$L16"]}],["$L17"],"$L18"]}],"p":"$@19","v":null,"s":"$8"}}]]
+9:[["children",{"s":{"n":"slug","t":"d","k":"recweb","s":[]},"h":96,"d":{"r":["$","$2","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}],"p":"$@a","v":"$7","s":"$8"},"c":"$Qb"}]]
+1:[["children",{"s":"p","h":64,"d":{"r":["$","$2","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}],"p":"$@6","v":"$7","s":"$8"},"c":"$Q9"}]]
+0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[null,["$","$L1b",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L1d",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$1e",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"REC web｜Enjin WIKI"}],["$","meta","1",{"name":"description","content":"Enjin Latest encyclopedia（デモ）"}],["$","link","2",{"rel":"icon","href":"/enjin-wiki-demo/icon.svg?icon.29mgbamraqu0i.svg","sizes":"any","type":"image/svg+xml"}],["$","$L1f","3",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@20","v":null,"s":"$8"}},"a":"$@21","u":"$@22","b":"S50NXu4v03Dm4Y4Pmm8Nb"}
+23:I[15373,["$3","$c"],"default"]
+24:I[35631,["$3","$c"],"default"]
+25:I[97619,["$3"],"OutletBoundary"]
+f:["$","$Ld","business-innovation",{"href":"/p/business-innovation/","className":"btn-light !justify-start !text-left ","children":"Business & Innovation"}]
+10:["$","$Ld","wonderfulstory",{"href":"/p/wonderfulstory/","className":"btn-light !justify-start !text-left ","children":"Wonderful Story"}]
+11:["$","$Ld","qualitas",{"href":"/p/qualitas/","className":"btn-light !justify-start !text-left ","children":"Qualitas・Qualitas Plus"}]
+12:["$","$Ld","mainichistyle",{"href":"/p/mainichistyle/","className":"btn-light !justify-start !text-left ","children":"毎日スタイル"}]
+13:["$","$Ld","business-chronicle",{"href":"/p/business-chronicle/","className":"btn-light !justify-start !text-left ","children":"ビジネスクロニクル"}]
+14:["$","$Ld","avatar",{"href":"/p/avatar/","className":"btn-light !justify-start !text-left ","children":"プロフィールサイト（アバター）"}]
+15:["$","section",null,{"className":"mt-10 flex flex-col gap-3 text-sm text-[var(--mute)] sm:flex-row sm:items-start sm:justify-between","children":[["$","dl",null,{"className":"grid grid-cols-[auto_1fr] gap-x-4 gap-y-1","children":[["$","dt",null,{"children":"担当"}],["$","dd",null,{"className":"font-bold text-[var(--ink)]","children":"制作（クリエイティブ）"}],["$","dt",null,{"children":"最終確認"}],["$","dd",null,{"children":"—"}],["$","dt",null,{"children":"状態"}],["$","dd",null,{"children":["本文あり",""]}],["$","dt",null,{"children":"元の情報"}],["$","dd",null,{"children":"旧WIKI「REC web」"}],[["$","dt",null,{"children":"別の呼び方"}],["$","dd",null,{"children":"REC web、REC、REC（週刊エコノミストweb）、週刊エコノミスト、エコノミストweb、週刊エコノミストRECバナー、毎日新聞出版、他社協力メディア"}]]]}],["$","$L23",null,{}]]}]
+16:["$","$L24",null,{}]
+17:["$","script","script-0",{"src":"/enjin-wiki-demo/_next/static/chunks/05z0oufbsnyby.js","async":true}]
+18:["$","$L25",null,{"children":["$","$1e",null,{"name":"Next.MetadataOutlet","children":"$@26"}]}]
+22:true
+8:300
+26:null
+8:C
+21:0
+a:"$undefined"
+6:"$undefined"
+20:"$undefined"
+19:"$undefined"

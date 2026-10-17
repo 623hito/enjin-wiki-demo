@@ -1,0 +1,36 @@
+2:"$Sreact.fragment"
+3:"/enjin-wiki-demo/_next/static/chunks/09ikke4fnd9ho.js"
+4:I[95853,["$3"],"default"]
+5:I[40640,["$3"],"default"]
+c:"/enjin-wiki-demo/_next/static/chunks/05z0oufbsnyby.js"
+d:I[72864,["$3","$c"],""]
+e:I[91231,["$3","$c"],"ReadButton"]
+14:"ViewportBoundary"
+15:I[97619,["$3"],"$14"]
+16:"MetadataBoundary"
+17:I[97619,["$3"],"$16"]
+18:"$Sreact.suspense"
+19:I[5153,["$3"],"IconMark"]
+7:X
+7:C
+8:X
+b:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[["$","main",null,{"children":[["$","section",null,{"className":"hero flex flex-col items-center justify-center px-4 text-center min-h-[11rem] py-9 sm:min-h-[15rem] sm:py-12","children":[["$","p",null,{"className":"mb-1 text-sm tracking-[.2em] text-white/85 sm:mb-2 sm:text-lg sm:tracking-[.25em]","children":"PR Department."}],["$","h1",null,{"className":"font-bold drop-shadow text-[1.7rem] leading-snug sm:text-5xl tracking-[.06em] sm:tracking-[.2em]","style":{"textWrap":"balance"},"children":"社内連携メール"}],"$undefined","$undefined"]}],["$","nav",null,{"aria-label":"現在地","className":"crumb-band px-4 py-4","children":["$","ol",null,{"className":"mx-auto flex max-w-6xl flex-wrap items-center gap-2 text-[13px]","children":[["$","li","0",{"className":"flex items-center gap-2","children":[false,["$","$Ld",null,{"href":"/","className":"crumb-link","children":"TOP"}]]}],["$","li","1",{"className":"flex items-center gap-2","children":[["$","span",null,{"aria-hidden":true,"children":">"}],["$","$Ld",null,{"href":"/c/eigyo/","className":"crumb-link","children":"営業の仕事"}]]}],["$","li","2",{"className":"flex items-center gap-2","children":[["$","span",null,{"aria-hidden":true,"children":">"}],["$","$Ld",null,{"href":"/c/eigyo/#%E2%91%A4%20%E5%8F%96%E6%9D%90%E3%83%BB%E5%88%B6%E4%BD%9C%E3%81%B8%E3%81%AE%E5%BC%95%E3%81%8D%E7%B6%99%E3%81%8E","className":"crumb-link","children":"⑤ 取材・制作への引き継ぎ"}]]}],["$","li","3",{"className":"flex items-center gap-2","children":[["$","span",null,{"aria-hidden":true,"children":">"}],["$","span",null,{"children":"社内連携メール"}]]}]]}]}],null,[false,["$","div",null,{"className":"mx-auto max-w-6xl px-4 pt-10","children":[["$","section",null,{"className":"grid items-start gap-8 ","children":[false,["$","div",null,{"className":"prose-wiki overview-box","dangerouslySetInnerHTML":{"__html":"<blockquote>\n<p>公開デモのため本文は伏せています。見出しだけ表示しています。</p>\n</blockquote>"}}]]}],["$","div",null,{"className":"mt-12 flex flex-col gap-14","children":[["$","section","s1",{"id":"s1","className":"scroll-mt-20","children":[["$","h2",null,{"className":"head-bar flex items-baseline","children":[["$","span",null,{"className":"sec-no","children":"01"}],"このページの見出し"]}],["$","div",null,{"className":"prose-wiki px-1 pt-5","dangerouslySetInnerHTML":{"__html":"\n<ul>\n<li>ひとことで</li>\n<li>メーリングリスト</li>\n<li>通常案件のメール</li>\n<li>TV案件のメール</li>\n<li>問い合わせ先</li>\n</ul>\n"}}]]}]]}],["$","section",null,{"className":"mt-16 flex flex-col gap-5 border-t border-[#c4c3c3] pt-6","children":[["$","div",null,{"className":"flex flex-wrap items-center gap-4","children":[["$","$Le",null,{"slug":"collaboration"}],[["$","$Ld","eigyo",{"href":"/learn/eigyo/","className":"chip","children":["学ぶ：","新人プランナー（営業）","・","2か月目"]}]]]}],["$","div",null,{"className":"grid gap-3 sm:grid-cols-2","children":[["$","$Ld",null,{"href":"/p/interview-rule/","className":"btn-light no-arrow !justify-start gap-2","children":[["$","span",null,{"className":"text-[var(--mute)]","children":"＜ 前へ"}],["$","span",null,{"className":"font-bold","children":"取材のルール"}]]}],["$","$Ld",null,{"href":"/p/notice-regulation/","className":"btn-light no-arrow !justify-end gap-2","children":[["$","span",null,{"className":"font-bold","children":"告知のレギュレーション"}],["$","span",null,{"className":"text-[var(--mute)]","children":"次へ ＞"}]]}]]}]]}],["$","section",null,{"className":"mt-10","children":[["$","h2",null,{"className":"head-bar mb-4 !text-base","children":"⑤ 取材・制作への引き継ぎ"}],["$","div",null,{"className":"grid grid-cols-2 gap-3 md:grid-cols-3","children":[["$","$Ld","interview-info",{"href":"/p/interview-info/","className":"btn-light !justify-start !text-left ","children":"取材情報の連携"}],["$","$Ld","interview-rule",{"href":"/p/interview-rule/","className":"btn-light !justify-start !text-left ","children":"取材のルール"}],["$","$Ld","collaboration",{"href":"/p/collaboration/","className":"btn-light !justify-start !text-left !border-[var(--brand)] !text-[var(--brand)] ring-1 ring-[var(--brand)]","children":"社内連携メール"}],["$","$Ld","notice-regulation",{"href":"/p/notice-regulation/","className":"btn-light !justify-start !text-left ","children":"告知のレギュレーション"}]]}]]}],"$Lf"]}]],"$L10"]}],["$L11"],"$L12"]}],"p":"$@13","v":null,"s":"$8"}}]]
+9:[["children",{"s":{"n":"slug","t":"d","k":"collaboration","s":[]},"h":96,"d":{"r":["$","$2","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}],"p":"$@a","v":"$7","s":"$8"},"c":"$Qb"}]]
+1:[["children",{"s":"p","h":64,"d":{"r":["$","$2","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}],"p":"$@6","v":"$7","s":"$8"},"c":"$Q9"}]]
+0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[null,["$","$L15",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L17",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$18",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"社内連携メール｜Enjin WIKI"}],["$","meta","1",{"name":"description","content":"Enjin Latest encyclopedia（デモ）"}],["$","link","2",{"rel":"icon","href":"/enjin-wiki-demo/icon.svg?icon.29mgbamraqu0i.svg","sizes":"any","type":"image/svg+xml"}],["$","$L19","3",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@1a","v":null,"s":"$8"}},"a":"$@1b","u":"$@1c","b":"S50NXu4v03Dm4Y4Pmm8Nb"}
+1d:I[15373,["$3","$c"],"default"]
+1e:I[35631,["$3","$c"],"default"]
+1f:I[97619,["$3"],"OutletBoundary"]
+f:["$","section",null,{"className":"mt-10 flex flex-col gap-3 text-sm text-[var(--mute)] sm:flex-row sm:items-start sm:justify-between","children":[["$","dl",null,{"className":"grid grid-cols-[auto_1fr] gap-x-4 gap-y-1","children":[["$","dt",null,{"children":"担当"}],["$","dd",null,{"className":"font-bold text-[var(--ink)]","children":"PR事業部"}],["$","dt",null,{"children":"最終確認"}],["$","dd",null,{"children":"—"}],["$","dt",null,{"children":"状態"}],["$","dd",null,{"children":["本文あり",""]}],["$","dt",null,{"children":"元の情報"}],["$","dd",null,{"children":"旧WIKI「社内連携メール」"}],[["$","dt",null,{"children":"別の呼び方"}],["$","dd",null,{"children":"社内連携、社内申請、メーリングリスト、ML、インタビューシート、メイク調整依頼、CCバック、クライアントチェックバック、ゲスト取材情報、抜き刷り、コンタクトシート、制作依頼、映像買取、データ納品、TV打ち合わせ、モーニングこんぱす"}]]]}],["$","$L1d",null,{}]]}]
+10:["$","$L1e",null,{}]
+11:["$","script","script-0",{"src":"/enjin-wiki-demo/_next/static/chunks/05z0oufbsnyby.js","async":true}]
+12:["$","$L1f",null,{"children":["$","$18",null,{"name":"Next.MetadataOutlet","children":"$@20"}]}]
+1c:true
+8:300
+20:null
+8:C
+1b:0
+a:"$undefined"
+6:"$undefined"
+1a:"$undefined"
+13:"$undefined"

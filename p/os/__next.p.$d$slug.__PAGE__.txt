@@ -1,0 +1,45 @@
+2:"$Sreact.fragment"
+3:"/enjin-wiki-demo/_next/static/chunks/09ikke4fnd9ho.js"
+4:I[95853,["$3"],"default"]
+5:I[40640,["$3"],"default"]
+c:"/enjin-wiki-demo/_next/static/chunks/05z0oufbsnyby.js"
+d:I[72864,["$3","$c"],""]
+e:I[91231,["$3","$c"],"ReadButton"]
+1d:"ViewportBoundary"
+1e:I[97619,["$3"],"$1d"]
+1f:"MetadataBoundary"
+20:I[97619,["$3"],"$1f"]
+21:"$Sreact.suspense"
+22:I[5153,["$3"],"IconMark"]
+7:X
+7:C
+8:X
+b:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[["$","main",null,{"children":[["$","section",null,{"className":"hero flex flex-col items-center justify-center px-4 text-center min-h-[11rem] py-9 sm:min-h-[15rem] sm:py-12","children":[["$","p",null,{"className":"mb-1 text-sm tracking-[.2em] text-white/85 sm:mb-2 sm:text-lg sm:tracking-[.25em]","children":"PR Department."}],["$","h1",null,{"className":"font-bold drop-shadow text-[1.7rem] leading-snug sm:text-5xl tracking-[.06em] sm:tracking-[.2em]","style":{"textWrap":"balance"},"children":"オーエス"}],"$undefined","$undefined"]}],["$","nav",null,{"aria-label":"現在地","className":"crumb-band px-4 py-4","children":["$","ol",null,{"className":"mx-auto flex max-w-6xl flex-wrap items-center gap-2 text-[13px]","children":[["$","li","0",{"className":"flex items-center gap-2","children":[false,["$","$Ld",null,{"href":"/","className":"crumb-link","children":"TOP"}]]}],["$","li","1",{"className":"flex items-center gap-2","children":[["$","span",null,{"aria-hidden":true,"children":">"}],["$","$Ld",null,{"href":"/c/eigyo/","className":"crumb-link","children":"営業の仕事"}]]}],["$","li","2",{"className":"flex items-center gap-2","children":[["$","span",null,{"aria-hidden":true,"children":">"}],["$","$Ld",null,{"href":"/c/eigyo/#%E2%91%A0%20%E5%BF%83%E3%81%8C%E3%81%BE%E3%81%88","className":"crumb-link","children":"① 心がまえ"}]]}],["$","li","3",{"className":"flex items-center gap-2","children":[["$","span",null,{"aria-hidden":true,"children":">"}],["$","span",null,{"children":"オーエス"}]]}]]}]}],null,[false,["$","div",null,{"className":"mx-auto max-w-6xl px-4 pt-10","children":[["$","section",null,{"className":"grid items-start gap-8 ","children":[false,["$","div",null,{"className":"prose-wiki overview-box","dangerouslySetInnerHTML":{"__html":"<blockquote>\n<p>公開デモのため本文は伏せています。見出しだけ表示しています。</p>\n</blockquote>"}}]]}],["$","div",null,{"className":"mt-12 flex flex-col gap-14","children":[["$","section","s1",{"id":"s1","className":"scroll-mt-20","children":[["$","h2",null,{"className":"head-bar flex items-baseline","children":[["$","span",null,{"className":"sec-no","children":"01"}],"このページの見出し"]}],["$","div",null,{"className":"prose-wiki px-1 pt-5","dangerouslySetInnerHTML":{"__html":"\n<ul>\n<li>ひとことで</li>\n<li>Enjin「鬼」気配り18ヵ条</li>\n<li>資料（フォルダ）</li>\n<li>問い合わせ先</li>\n</ul>\n"}}]]}]]}],["$","section",null,{"className":"mt-16 flex flex-col gap-5 border-t border-[#c4c3c3] pt-6","children":[["$","div",null,{"className":"flex flex-wrap items-center gap-4","children":[["$","$Le",null,{"slug":"os"}],[["$","$Ld","eigyo",{"href":"/learn/eigyo/","className":"chip","children":["学ぶ：","新人プランナー（営業）","・","1週目"]}]]]}],["$","div",null,{"className":"grid gap-3 sm:grid-cols-2","children":[["$","$Ld",null,{"href":"/p/pr-pdca/","className":"btn-light no-arrow !justify-start gap-2","children":[["$","span",null,{"className":"text-[var(--mute)]","children":"＜ 前へ"}],["$","span",null,{"className":"font-bold","children":"PDCA・6S・10分チェック・冒険の書"}]]}],["$","$Ld",null,{"href":"/p/shanai-os/","className":"btn-light no-arrow !justify-end gap-2","children":[["$","span",null,{"className":"font-bold","children":"社内オーエス（社内での所作）"}],["$","span",null,{"className":"text-[var(--mute)]","children":"次へ ＞"}]]}]]}]]}],["$","section",null,{"className":"mt-10","children":[["$","h2",null,{"className":"head-bar mb-4 !text-base","children":"① 心がまえ"}],["$","div",null,{"className":"grid grid-cols-2 gap-3 md:grid-cols-3","children":[["$","$Ld","pr-11",{"href":"/p/pr-11/","className":"btn-light !justify-start !text-left ","children":"PRプランナー11ヵ条"}],["$","$Ld","pr-pdca",{"href":"/p/pr-pdca/","className":"btn-light !justify-start !text-left ","children":"PDCA・6S・10分チェック・冒険の書"}],["$","$Ld","os",{"href":"/p/os/","className":"btn-light !justify-start !text-left !border-[var(--brand)] !text-[var(--brand)] ring-1 ring-[var(--brand)]","children":"オーエス（お客さまへの気配り）"}],["$","$Ld","shanai-os",{"href":"/p/shanai-os/","className":"btn-light !justify-start !text-left ","children":"社内オーエス（社内での所作）"}]]}]]}],["$","section",null,{"className":"mt-10 flex flex-col gap-3 text-sm text-[var(--mute)] sm:flex-row sm:items-start sm:justify-between","children":[["$","dl",null,{"className":"grid grid-cols-[auto_1fr] gap-x-4 gap-y-1","children":["$Lf","$L10","$L11","$L12","$L13","$L14","$L15","$L16","$L17"]}],"$L18"]}]]}]],"$L19"]}],["$L1a"],"$L1b"]}],"p":"$@1c","v":null,"s":"$8"}}]]
+9:[["children",{"s":{"n":"slug","t":"d","k":"os","s":[]},"h":96,"d":{"r":["$","$2","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}],"p":"$@a","v":"$7","s":"$8"},"c":"$Qb"}]]
+1:[["children",{"s":"p","h":64,"d":{"r":["$","$2","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}],"p":"$@6","v":"$7","s":"$8"},"c":"$Q9"}]]
+0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[null,["$","$L1e",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L20",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$21",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"オーエス｜Enjin WIKI"}],["$","meta","1",{"name":"description","content":"Enjin Latest encyclopedia（デモ）"}],["$","link","2",{"rel":"icon","href":"/enjin-wiki-demo/icon.svg?icon.29mgbamraqu0i.svg","sizes":"any","type":"image/svg+xml"}],["$","$L22","3",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@23","v":null,"s":"$8"}},"a":"$@24","u":"$@25","b":"S50NXu4v03Dm4Y4Pmm8Nb"}
+26:I[15373,["$3","$c"],"default"]
+27:I[35631,["$3","$c"],"default"]
+28:I[97619,["$3"],"OutletBoundary"]
+f:["$","dt",null,{"children":"担当"}]
+10:["$","dd",null,{"className":"font-bold text-[var(--ink)]","children":"PR事業部"}]
+11:["$","dt",null,{"children":"最終確認"}]
+12:["$","dd",null,{"children":"—"}]
+13:["$","dt",null,{"children":"状態"}]
+14:["$","dd",null,{"children":["本文あり",""]}]
+15:["$","dt",null,{"children":"元の情報"}]
+16:["$","dd",null,{"children":"旧WIKI「オーエス」"}]
+17:[["$","dt",null,{"children":"別の呼び方"}],["$","dd",null,{"children":"オーエス、OS、OHS、オハナ・ホスピタリティ・セールス、Ohana Hospitality Sales、鬼気配り18ヵ条、気配り18ヵ条、気配り、おもてなし、取材当日用資料、告知資料"}]]
+18:["$","$L26",null,{}]
+19:["$","$L27",null,{}]
+1a:["$","script","script-0",{"src":"/enjin-wiki-demo/_next/static/chunks/05z0oufbsnyby.js","async":true}]
+1b:["$","$L28",null,{"children":["$","$21",null,{"name":"Next.MetadataOutlet","children":"$@29"}]}]
+25:true
+8:300
+29:null
+8:C
+24:0
+a:"$undefined"
+6:"$undefined"
+23:"$undefined"
+1c:"$undefined"

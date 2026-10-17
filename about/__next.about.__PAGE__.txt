@@ -1,0 +1,25 @@
+2:"$Sreact.fragment"
+3:"/enjin-wiki-demo/_next/static/chunks/09ikke4fnd9ho.js"
+4:I[95853,["$3"],"default"]
+5:I[40640,["$3"],"default"]
+a:I[97619,["$3"],"OutletBoundary"]
+b:"$Sreact.suspense"
+e:"ViewportBoundary"
+f:I[97619,["$3"],"$e"]
+10:"MetadataBoundary"
+11:I[97619,["$3"],"$10"]
+12:I[5153,["$3"],"IconMark"]
+7:X
+7:C
+8:X
+9:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[["$","main",null,{"children":[["$","section",null,{"className":"hero flex flex-col items-center justify-center px-4 text-center min-h-[11rem] py-9 sm:min-h-[15rem] sm:py-12","children":[["$","p",null,{"className":"mb-1 text-sm tracking-[.2em] text-white/85 sm:mb-2 sm:text-lg sm:tracking-[.25em]","children":"About"}],["$","h1",null,{"className":"font-bold drop-shadow text-[1.7rem] leading-snug sm:text-5xl tracking-[.06em] sm:tracking-[.2em]","style":{"textWrap":"balance"},"children":"Enjin WIKIについて"}],"$undefined","$undefined"]}],["$","div",null,{"className":"mx-auto max-w-4xl px-4","children":[["$","section",null,{"className":"flex flex-col items-center gap-3 py-12 text-center","children":[["$","p",null,{"className":"label-en","children":"PURPOSE"}],["$","p",null,{"className":"mincho text-2xl font-bold","children":"社会の役に立つ立派な人間を一人でも多く輩出する"}]]}],["$","div",null,{"className":"grid gap-10 pb-6 md:grid-cols-2","children":[["$","section",null,{"children":[["$","h2",null,{"className":"mb-3 text-[1.2rem] font-bold text-[var(--brand)]","children":"Enjin WIKIとは"}],["$","p",null,{"children":"運営メディア、社内の情報など、わからないことを簡単にアクセスして自分で取りに行けるオンライン百科事典。"}]]}],["$","section",null,{"children":[["$","h2",null,{"className":"mb-3 text-[1.2rem] font-bold text-[var(--brand)]","children":["WIKI更新ルール ",["$","span",null,{"className":"text-xs font-normal","children":"¡ confidential !"}]]}],["$","ul",null,{"className":"flex flex-col gap-1 text-[15px]","children":[["$","li","Enjin WIKIの情報は全て社外秘です",{"children":["・","Enjin WIKIの情報は全て社外秘です"]}],["$","li","各分野の代表に管理を任せる。問い合わせは各ページの下に担当を記載。",{"children":["・","各分野の代表に管理を任せる。問い合わせは各ページの下に担当を記載。"]}],["$","li","最新の情報へのアップデートを欠かさない。資料アップはWIKIからドライブへ",{"children":["・","最新の情報へのアップデートを欠かさない。資料アップはWIKIからドライブへ"]}],["$","li","一時的な流動性のある情報は発信チャンネルに投稿",{"children":["・","一時的な流動性のある情報は発信チャンネルに投稿"]}],["$","li","資料タイトルは最初に日付をつける。例）20210401_研修資料",{"children":["・","資料タイトルは最初に日付をつける。例）20210401_研修資料"]}],["$","li","記入の際はコンプライアンスを十分に意識して記載する",{"children":["・","記入の際はコンプライアンスを十分に意識して記載する"]}]]}],["$","p",null,{"className":"mt-2 text-[15px]","children":"一字一句こだわった表現！これ大事。"}]]}]]}]]}]]}],null,["$","$La",null,{"children":["$","$b",null,{"name":"Next.MetadataOutlet","children":"$@c"}]}]]}],"p":"$@d","v":null,"s":"$8"}}]]
+1:[["children",{"s":"about","h":64,"d":{"r":["$","$2","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}],"p":"$@6","v":"$7","s":"$8"},"c":"$Q9"}]]
+0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[null,["$","$Lf",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L11",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$b",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"WIKIについて｜Enjin WIKI"}],["$","meta","1",{"name":"description","content":"Enjin Latest encyclopedia（デモ）"}],["$","link","2",{"rel":"icon","href":"/enjin-wiki-demo/icon.svg?icon.29mgbamraqu0i.svg","sizes":"any","type":"image/svg+xml"}],["$","$L12","3",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@13","v":null,"s":"$8"}},"a":"$@14","u":"$@15","b":"S50NXu4v03Dm4Y4Pmm8Nb"}
+c:null
+15:true
+8:300
+8:C
+14:0
+6:"$undefined"
+13:"$undefined"
+d:"$undefined"

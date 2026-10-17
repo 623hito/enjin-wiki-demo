@@ -1,0 +1,26 @@
+2:"$Sreact.fragment"
+3:"/enjin-wiki-demo/_next/static/chunks/09ikke4fnd9ho.js"
+4:I[95853,["$3"],"default"]
+5:I[40640,["$3"],"default"]
+a:I[72864,["$3"],""]
+b:I[97619,["$3"],"OutletBoundary"]
+c:"$Sreact.suspense"
+f:"ViewportBoundary"
+10:I[97619,["$3"],"$f"]
+11:"MetadataBoundary"
+12:I[97619,["$3"],"$11"]
+13:I[5153,["$3"],"IconMark"]
+7:X
+7:C
+8:X
+9:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[["$","main",null,{"children":[["$","section",null,{"className":"hero flex flex-col items-center justify-center px-4 text-center min-h-[6.5rem] py-5 sm:min-h-[7.5rem] sm:py-6","children":["$undefined",["$","h1",null,{"className":"font-bold drop-shadow text-2xl sm:text-3xl tracking-[.06em] sm:tracking-[.2em]","style":{"textWrap":"balance"},"children":"ページが見つかりません"}],"$undefined","$undefined"]}],["$","div",null,{"className":"mx-auto flex max-w-xl flex-col items-center gap-4 px-4 py-14 text-center","children":[["$","p",null,{"className":"label-en","children":"NOT FOUND"}],["$","p",null,{"className":"text-[15px] text-[var(--mute)]","children":"お探しのページは、移動したか、名前が変わった可能性があります。"}],["$","div",null,{"className":"mt-2 grid w-full gap-3 sm:grid-cols-3","children":[["$","$La",null,{"href":"/","className":"btn-light","children":"TOPへ"}],["$","$La",null,{"href":"/search/","className":"btn-light","children":"検索する"}],["$","$La",null,{"href":"/ask/","className":"btn-gray","children":"AIに聞く"}]]}]]}]]}],null,["$","$Lb",null,{"children":["$","$c",null,{"name":"Next.MetadataOutlet","children":"$@d"}]}]]}],"p":"$@e","v":null,"s":"$8"}}]]
+1:[["children",{"s":"/_not-found","h":64,"d":{"r":["$","$2","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}],"p":"$@6","v":"$7","s":"$8"},"c":"$Q9"}]]
+0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L10",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L12",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$c",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Enjin WIKI"}],["$","meta","1",{"name":"description","content":"Enjin Latest encyclopedia（デモ）"}],["$","link","2",{"rel":"icon","href":"/enjin-wiki-demo/icon.svg?icon.29mgbamraqu0i.svg","sizes":"any","type":"image/svg+xml"}],["$","$L13","3",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@14","v":null,"s":"$8"}},"a":"$@15","u":"$@16","b":"S50NXu4v03Dm4Y4Pmm8Nb"}
+d:null
+16:true
+8:300
+8:C
+15:0
+6:"$undefined"
+14:"$undefined"
+e:"$undefined"

@@ -1,0 +1,35 @@
+2:"$Sreact.fragment"
+3:"/enjin-wiki-demo/_next/static/chunks/09ikke4fnd9ho.js"
+4:I[95853,["$3"],"default"]
+5:I[40640,["$3"],"default"]
+c:"/enjin-wiki-demo/_next/static/chunks/2w18rx4jsg31u.js"
+d:I[72864,["$3","$c"],""]
+e:I[25527,["$3","$c"],"default"]
+15:"ViewportBoundary"
+16:I[97619,["$3"],"$15"]
+17:"MetadataBoundary"
+18:I[97619,["$3"],"$17"]
+19:"$Sreact.suspense"
+1a:I[5153,["$3"],"IconMark"]
+7:X
+7:C
+8:X
+b:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[["$","main",null,{"children":[["$","section",null,{"className":"hero flex flex-col items-center justify-center px-4 text-center min-h-[11rem] py-9 sm:min-h-[15rem] sm:py-12","children":[["$","p",null,{"className":"mb-1 text-sm tracking-[.2em] text-white/85 sm:mb-2 sm:text-lg sm:tracking-[.25em]","children":"Creative"}],["$","h1",null,{"className":"font-bold drop-shadow text-[1.7rem] leading-snug sm:text-5xl tracking-[.06em] sm:tracking-[.2em]","style":{"textWrap":"balance"},"children":"制作の仕事"}],["$","p",null,{"className":"mt-3 text-xs tracking-[.2em] text-white/75","children":["‹ ","Production + Check"," ›"]}],"$undefined"]}],["$","nav",null,{"aria-label":"現在地","className":"crumb-band px-4 py-4","children":["$","ol",null,{"className":"mx-auto flex max-w-6xl flex-wrap items-center gap-2 text-[13px]","children":[["$","li","0",{"className":"flex items-center gap-2","children":[false,["$","$Ld",null,{"href":"/","className":"crumb-link","children":"TOP"}]]}],["$","li","1",{"className":"flex items-center gap-2","children":[["$","span",null,{"aria-hidden":true,"children":">"}],["$","span",null,{"children":"制作の仕事"}]]}]]}]}],["$","section",null,{"className":"bg-[var(--band)] px-4 py-5 text-white sm:py-7","children":["$","div",null,{"className":"mx-auto grid max-w-6xl gap-3 md:grid-cols-[10rem_1fr] md:gap-4","children":[["$","p",null,{"className":"label-en !text-white/80","children":"INDEX"}],["$","ul",null,{"className":"no-scrollbar -mx-4 flex gap-2 overflow-x-auto px-4 sm:mx-0 sm:grid sm:grid-cols-2 sm:gap-x-6 sm:gap-y-2 sm:overflow-visible sm:px-0 lg:grid-cols-3","children":[["$","li","取材",{"className":"shrink-0","children":["$","a",null,{"href":"#%E5%8F%96%E6%9D%90","className":"chip-dark whitespace-nowrap","children":"取材"}]}],["$","li","原稿・確認・公開",{"className":"shrink-0","children":["$","a",null,{"href":"#%E5%8E%9F%E7%A8%BF%E3%83%BB%E7%A2%BA%E8%AA%8D%E3%83%BB%E5%85%AC%E9%96%8B","className":"chip-dark whitespace-nowrap","children":"原稿・確認・公開"}]}],["$","li","公開のあと",{"className":"shrink-0","children":["$","a",null,{"href":"#%E5%85%AC%E9%96%8B%E3%81%AE%E3%81%82%E3%81%A8","className":"chip-dark whitespace-nowrap","children":"公開のあと"}]}],["$","li","困ったら",{"className":"shrink-0","children":["$","a",null,{"href":"#%E5%9B%B0%E3%81%A3%E3%81%9F%E3%82%89","className":"chip-dark whitespace-nowrap","children":"困ったら"}]}]]}]]}]}],["$","div",null,{"className":"mx-auto max-w-6xl px-4 pt-6 sm:pt-10","children":[null,["$","div",null,{"className":"flex flex-col gap-10 sm:gap-12","children":[["$","p",null,{"className":"text-[15px] text-[var(--mute)]","children":"取材の準備から公開確認・二次利用まで"}],["$","p",null,{"className":"flex items-center gap-2 rounded-xl border border-dashed border-[#bdbaba] px-4 py-2.5 text-[13px] text-[var(--mute)]","children":[["$","span",null,{"className":"shrink-0 whitespace-nowrap rounded-full bg-[var(--bg)] px-2 py-0.5 text-[11px] font-bold","children":"準備中"}],"制作フロー図","（工程を押すと手順へ）をここに置きます"]}],[["$","section","取材",{"id":"取材","className":"scroll-mt-20","children":[["$","h2",null,{"className":"head-bar mb-4 flex items-baseline justify-between","children":["取材",["$","span",null,{"className":"text-xs font-normal tracking-normal text-[var(--mute)]","children":[3,"ページ"]}]]}],["$","$Le",null,{"items":[{"slug":"interview-prep","title":"取材準備・当日の立ち回り","layer":"all","status":"written","gist":""},{"slug":"interview-sheet","title":"インタビューシート","layer":"all","status":"written","gist":""},{"slug":"tv-flow","title":"テレビの進め方","layer":"all","status":"written","gist":""}]}]]}],["$","section","原稿・確認・公開",{"id":"原稿・確認・公開","className":"scroll-mt-20","children":[["$","h2",null,{"className":"head-bar mb-4 flex items-baseline justify-between","children":["原稿・確認・公開",["$","span",null,{"className":"text-xs font-normal tracking-normal text-[var(--mute)]","children":[2,"ページ"]}]]}],["$","$Le",null,{"items":[{"slug":"guideline","title":"表記のルール","layer":"all","status":"written","gist":""},{"slug":"client-check","title":"クライアントチェック・公開確認","layer":"all","status":"written","gist":""}]}]]}],["$","section","公開のあと",{"id":"公開のあと","className":"scroll-mt-20","children":["$Lf","$L10"]}],"$L11"]]}]]}]]}],["$L12"],"$L13"]}],"p":"$@14","v":null,"s":"$8"}}]]
+9:[["children",{"s":{"n":"id","t":"d","k":"seisaku","s":[]},"h":96,"d":{"r":["$","$2","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}],"p":"$@a","v":"$7","s":"$8"},"c":"$Qb"}]]
+1:[["children",{"s":"c","h":64,"d":{"r":["$","$2","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}],"p":"$@6","v":"$7","s":"$8"},"c":"$Q9"}]]
+0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[null,["$","$L16",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L18",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$19",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"制作の仕事｜Enjin WIKI"}],["$","meta","1",{"name":"description","content":"Enjin Latest encyclopedia（デモ）"}],["$","link","2",{"rel":"icon","href":"/enjin-wiki-demo/icon.svg?icon.29mgbamraqu0i.svg","sizes":"any","type":"image/svg+xml"}],["$","$L1a","3",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@1b","v":null,"s":"$8"}},"a":"$@1c","u":"$@1d","b":"S50NXu4v03Dm4Y4Pmm8Nb"}
+1e:I[97619,["$3"],"OutletBoundary"]
+f:["$","h2",null,{"className":"head-bar mb-4 flex items-baseline justify-between","children":["公開のあと",["$","span",null,{"className":"text-xs font-normal tracking-normal text-[var(--mute)]","children":[2,"ページ"]}]]}]
+10:["$","$Le",null,{"items":[{"slug":"banner","title":"二次利用・バナー","layer":"all","status":"written","gist":""},{"slug":"purchase","title":"増刷・写真の買取","layer":"all","status":"written","gist":""}]}]
+11:["$","section","困ったら",{"id":"困ったら","className":"scroll-mt-20","children":[["$","h2",null,{"className":"head-bar mb-4 flex items-baseline justify-between","children":["困ったら",["$","span",null,{"className":"text-xs font-normal tracking-normal text-[var(--mute)]","children":[1,"ページ"]}]]}],["$","$Le",null,{"items":[{"slug":"creative-inquiry","title":"制作の問い合わせ先","layer":"all","status":"written","gist":""}]}]]}]
+12:["$","script","script-0",{"src":"/enjin-wiki-demo/_next/static/chunks/2w18rx4jsg31u.js","async":true}]
+13:["$","$L1e",null,{"children":["$","$19",null,{"name":"Next.MetadataOutlet","children":"$@1f"}]}]
+1d:true
+8:300
+1f:null
+8:C
+1c:0
+a:"$undefined"
+6:"$undefined"
+1b:"$undefined"
+14:"$undefined"
