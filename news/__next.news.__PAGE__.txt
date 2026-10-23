@@ -1,0 +1,27 @@
+2:"$Sreact.fragment"
+3:"/enjin-wiki-demo/_next/static/chunks/109ty_91-qqwo.js"
+4:"/enjin-wiki-demo/_next/static/chunks/31ch76hk_tg6g.js"
+5:I[13111,["$3","$4"],"default"]
+6:I[24191,["$3","$4"],"default"]
+b:I[98449,["$3","$4"],""]
+c:I[81846,["$3","$4"],"OutletBoundary"]
+d:"$Sreact.suspense"
+10:"ViewportBoundary"
+11:I[81846,["$3","$4"],"$10"]
+12:"MetadataBoundary"
+13:I[81846,["$3","$4"],"$12"]
+14:I[19779,["$3","$4"],"IconMark"]
+8:X
+8:C
+9:X
+a:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[["$","main",null,{"children":[["$","section",null,{"className":"hero flex flex-col items-center justify-center px-4 text-center min-h-[7rem] py-5 sm:min-h-[10.5rem] sm:py-8","children":[["$","p",null,{"className":"mb-1 text-sm tracking-[.2em] text-white/85 sm:mb-2 sm:text-lg sm:tracking-[.25em]","children":"Information"}],["$","h1",null,{"className":"font-bold drop-shadow text-[1.7rem] leading-snug sm:text-5xl tracking-[.06em] sm:tracking-[.2em]","style":{"textWrap":"balance"},"children":"お知らせ"}],"$undefined","$undefined","$undefined"]}],["$","nav",null,{"aria-label":"現在地","className":"crumb-band px-4 py-3 sm:py-4","children":["$","ol",null,{"className":"no-scrollbar mx-auto flex max-w-6xl items-center gap-2 overflow-x-auto whitespace-nowrap text-[13px] sm:flex-wrap sm:overflow-visible sm:whitespace-normal","children":[["$","li","0",{"className":"flex shrink-0 items-center gap-2","children":[false,["$","$Lb",null,{"href":"/","className":"crumb-link","children":"TOP"}]]}],["$","li","1",{"className":"flex shrink-0 items-center gap-2","children":[["$","span",null,{"aria-hidden":true,"children":">"}],["$","span",null,{"children":"お知らせ"}]]}]]}]}],["$","div",null,{"className":"mx-auto max-w-4xl px-4 py-10","children":["$","ul",null,{"className":"border-t border-[#c4c3c3]","children":[["$","li","2026-10-21入口を5つ（基本情報・制度・申請・営業・プロダクト・AIツール）に整理しました。TOPのお気に入りは自分で並べられます",{"className":"border-b border-[#c4c3c3]","children":["$","$Lb",null,{"href":"/about/","className":"flex flex-col gap-1 px-1 py-3 hover:bg-[var(--surface)] sm:flex-row sm:items-center sm:gap-5 sm:px-2 sm:py-4","children":[["$","span",null,{"className":"flex shrink-0 items-center gap-2 sm:contents","children":[["$","span",null,{"className":"text-[13px] text-[var(--mute)] sm:w-28 sm:text-[15px]","children":"2026.10.21"}],["$","span",null,{"className":"whitespace-nowrap rounded-full bg-[var(--band)] px-2.5 py-0.5 text-center text-[11px] text-white sm:min-w-16 sm:px-2.5 sm:text-xs","children":"WIKI"}]]}],["$","span",null,{"className":"flex-1 text-[15px] leading-relaxed sm:text-base","children":"入口を5つ（基本情報・制度・申請・営業・プロダクト・AIツール）に整理しました。TOPのお気に入りは自分で並べられます"}]]}]}],["$","li","2026-10-15「AIに聞く」が使えます。WIKIに書いてあることだけで、根拠のページ付きで答えます",{"className":"border-b border-[#c4c3c3]","children":["$","$Lb",null,{"href":"/ask/","className":"flex flex-col gap-1 px-1 py-3 hover:bg-[var(--surface)] sm:flex-row sm:items-center sm:gap-5 sm:px-2 sm:py-4","children":[["$","span",null,{"className":"flex shrink-0 items-center gap-2 sm:contents","children":[["$","span",null,{"className":"text-[13px] text-[var(--mute)] sm:w-28 sm:text-[15px]","children":"2026.10.15"}],["$","span",null,{"className":"whitespace-nowrap rounded-full bg-[var(--band)] px-2.5 py-0.5 text-center text-[11px] text-white sm:min-w-16 sm:px-2.5 sm:text-xs","children":"WIKI"}]]}],["$","span",null,{"className":"flex-1 text-[15px] leading-relaxed sm:text-base","children":"「AIに聞く」が使えます。WIKIに書いてあることだけで、根拠のページ付きで答えます"}]]}]}],["$","li","2026-10-14入社1週目・新人プランナー・新人ディレクター・管理職のコースを用意しました",{"className":"border-b border-[#c4c3c3]","children":["$","$Lb",null,{"href":"/learn/","className":"flex flex-col gap-1 px-1 py-3 hover:bg-[var(--surface)] sm:flex-row sm:items-center sm:gap-5 sm:px-2 sm:py-4","children":[["$","span",null,{"className":"flex shrink-0 items-center gap-2 sm:contents","children":[["$","span",null,{"className":"text-[13px] text-[var(--mute)] sm:w-28 sm:text-[15px]","children":"2026.10.14"}],["$","span",null,{"className":"whitespace-nowrap rounded-full bg-[var(--band)] px-2.5 py-0.5 text-center text-[11px] text-white sm:min-w-16 sm:px-2.5 sm:text-xs","children":"オンボーディング"}]]}],["$","span",null,{"className":"flex-1 text-[15px] leading-relaxed sm:text-base","children":"入社1週目・新人プランナー・新人ディレクター・管理職のコースを用意しました"}]]}]}]]}]}]]}],null,["$","$Lc",null,{"children":["$","$d",null,{"name":"Next.MetadataOutlet","children":"$@e"}]}]]}],"p":"$@f","v":null,"s":"$9"}}]]
+1:[["children",{"s":"news","h":64,"d":{"r":["$","$2","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]]}],"p":"$@7","v":"$8","s":"$9"},"c":"$Qa"}]]
+0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[null,["$","$L11",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L13",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$d",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"お知らせ｜Enjin WIKI"}],["$","meta","1",{"name":"description","content":"Enjin Latest encyclopedia"}],["$","link","2",{"rel":"icon","href":"/enjin-wiki-demo/icon.svg?icon.29mgbamraqu0i.svg","sizes":"any","type":"image/svg+xml"}],["$","$L14","3",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@15","v":null,"s":"$9"}},"a":"$@16","u":"$@17","b":"zhLANZtQDvX1NTSmn38oo"}
+e:null
+17:true
+9:300
+9:C
+16:0
+7:"$undefined"
+15:"$undefined"
+f:"$undefined"

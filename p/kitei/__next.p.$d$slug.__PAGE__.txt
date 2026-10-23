@@ -1,0 +1,31 @@
+2:"$Sreact.fragment"
+3:"/enjin-wiki-demo/_next/static/chunks/109ty_91-qqwo.js"
+4:"/enjin-wiki-demo/_next/static/chunks/31ch76hk_tg6g.js"
+5:I[13111,["$3","$4"],"default"]
+6:I[24191,["$3","$4"],"default"]
+d:"/enjin-wiki-demo/_next/static/chunks/02cxx-5ksobby.js"
+e:I[98449,["$3","$4","$d"],""]
+f:I[35631,["$3","$4","$d"],"default"]
+10:I[81846,["$3","$4"],"OutletBoundary"]
+11:"$Sreact.suspense"
+14:"ViewportBoundary"
+15:I[81846,["$3","$4"],"$14"]
+16:"MetadataBoundary"
+17:I[81846,["$3","$4"],"$16"]
+18:I[19779,["$3","$4"],"IconMark"]
+8:X
+8:C
+9:X
+c:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[["$","main",null,{"children":[["$","section",null,{"className":"hero flex flex-col items-center justify-center px-4 text-center min-h-[7rem] py-5 sm:min-h-[10.5rem] sm:py-8","children":[["$","p",null,{"className":"mb-1 text-sm tracking-[.2em] text-white/85 sm:mb-2 sm:text-lg sm:tracking-[.25em]","children":"Systems & Requests"}],["$","h1",null,{"className":"font-bold drop-shadow text-[1.7rem] leading-snug sm:text-5xl tracking-[.06em] sm:tracking-[.2em]","style":{"textWrap":"balance"},"children":"規程・資料"}],"$undefined",["$","p",null,{"className":"mt-3 max-w-2xl text-[14px] leading-relaxed text-white/85 sm:text-[16px]","children":"規程は共有ドライブ「#100_規程類」。ファイル名の最後の日付が施行日"}],"$undefined"]}],["$","nav",null,{"aria-label":"現在地","className":"crumb-band px-4 py-3 sm:py-4","children":["$","ol",null,{"className":"no-scrollbar mx-auto flex max-w-6xl items-center gap-2 overflow-x-auto whitespace-nowrap text-[13px] sm:flex-wrap sm:overflow-visible sm:whitespace-normal","children":[["$","li","0",{"className":"flex shrink-0 items-center gap-2","children":[false,["$","$Le",null,{"href":"/","className":"crumb-link","children":"TOP"}]]}],["$","li","1",{"className":"flex shrink-0 items-center gap-2","children":[["$","span",null,{"aria-hidden":true,"children":">"}],["$","$Le",null,{"href":"/c/seido/","className":"crumb-link","children":"制度・申請"}]]}],["$","li","2",{"className":"flex shrink-0 items-center gap-2","children":[["$","span",null,{"aria-hidden":true,"children":">"}],["$","$Le",null,{"href":"/c/seido/#%E8%A6%8F%E7%A8%8B","className":"crumb-link","children":"規程"}]]}],["$","li","3",{"className":"flex shrink-0 items-center gap-2","children":[["$","span",null,{"aria-hidden":true,"children":">"}],["$","span",null,{"children":"規程・資料"}]]}]]}]}],null,[false,["$","div",null,{"className":"mx-auto max-w-6xl px-4 pt-6 ","children":[false,["$","div",null,{"className":"min-w-0 xl:col-start-2 xl:row-start-1","children":[["$","section",null,{"className":"grid items-start gap-6 ","children":[false,["$","div",null,{"className":"prose-wiki","dangerouslySetInnerHTML":{"__html":"<blockquote>\n<p>公開デモのため本文は伏せています。見出しだけ表示しています。</p>\n</blockquote>"}}]]}],["$","div",null,{"className":"mt-8 flex flex-col gap-8","children":[["$","section","s1",{"id":"s1","className":"scroll-mt-20","children":[["$","h2",null,{"className":"head-bar flex items-baseline","children":[["$","span",null,{"className":"sec-no","children":"01"}],"このページの見出し"]}],["$","div",null,{"className":"prose-wiki px-1 pt-3","dangerouslySetInnerHTML":{"__html":"\n<div class=\"tags\"><span class=\"tag\">ひとことで</span><span class=\"tag\">社員に関係する規程</span><span class=\"tag\">申請書の様式</span><span class=\"tag\">勤務関係</span><span class=\"tag\">採用関係</span><span class=\"tag\">労働環境</span><span class=\"tag\">関係するページ</span></div>\n"}}]]}]]}],false,false,false,["$","section",null,{"className":"mt-8 flex flex-col gap-3 text-sm text-[var(--mute)] sm:flex-row sm:items-start sm:justify-between","children":[["$","dl",null,{"className":"grid grid-cols-[auto_1fr] gap-x-4 gap-y-1","children":[["$","dt",null,{"children":"担当"}],["$","dd",null,{"className":"font-bold text-[var(--ink)]","children":"社長室（経営企画室）"}],["$","dt",null,{"children":"最終確認"}],["$","dd",null,{"children":"—"}],false]}],false]}]]}]]}]],false,["$","$Lf",null,{}]]}],[["$","script","script-0",{"src":"/enjin-wiki-demo/_next/static/chunks/02cxx-5ksobby.js","async":true}]],["$","$L10",null,{"children":["$","$11",null,{"name":"Next.MetadataOutlet","children":"$@12"}]}]]}],"p":"$@13","v":null,"s":"$9"}}]]
+a:[["children",{"s":{"n":"slug","t":"d","k":"kitei","s":[]},"h":96,"d":{"r":["$","$2","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]]}],"p":"$@b","v":"$8","s":"$9"},"c":"$Qc"}]]
+1:[["children",{"s":"p","h":64,"d":{"r":["$","$2","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]]}],"p":"$@7","v":"$8","s":"$9"},"c":"$Qa"}]]
+0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[null,["$","$L15",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L17",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$11",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"規程・資料｜Enjin WIKI"}],["$","meta","1",{"name":"description","content":"Enjin Latest encyclopedia"}],["$","link","2",{"rel":"icon","href":"/enjin-wiki-demo/icon.svg?icon.29mgbamraqu0i.svg","sizes":"any","type":"image/svg+xml"}],["$","$L18","3",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@19","v":null,"s":"$9"}},"a":"$@1a","u":"$@1b","b":"zhLANZtQDvX1NTSmn38oo"}
+12:null
+1b:true
+9:300
+9:C
+1a:0
+b:"$undefined"
+7:"$undefined"
+19:"$undefined"
+13:"$undefined"

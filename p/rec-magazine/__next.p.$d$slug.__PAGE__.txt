@@ -1,0 +1,35 @@
+2:"$Sreact.fragment"
+3:"/enjin-wiki-demo/_next/static/chunks/109ty_91-qqwo.js"
+4:"/enjin-wiki-demo/_next/static/chunks/31ch76hk_tg6g.js"
+5:I[13111,["$3","$4"],"default"]
+6:I[24191,["$3","$4"],"default"]
+d:"/enjin-wiki-demo/_next/static/chunks/02cxx-5ksobby.js"
+e:I[98449,["$3","$4","$d"],""]
+14:"ViewportBoundary"
+15:I[81846,["$3","$4"],"$14"]
+16:"MetadataBoundary"
+17:I[81846,["$3","$4"],"$16"]
+18:"$Sreact.suspense"
+19:I[19779,["$3","$4"],"IconMark"]
+8:X
+8:C
+9:X
+c:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[["$","main",null,{"children":[["$","section",null,{"className":"hero flex flex-col items-center justify-center px-4 text-center min-h-[7rem] py-5 sm:min-h-[10.5rem] sm:py-8","children":[["$","p",null,{"className":"mb-1 text-sm tracking-[.2em] text-white/85 sm:mb-2 sm:text-lg sm:tracking-[.25em]","children":"Product"}],["$","h1",null,{"className":"font-bold drop-shadow text-[1.7rem] leading-snug sm:text-5xl tracking-[.06em] sm:tracking-[.2em]","style":{"textWrap":"balance"},"children":"週刊エコノミスト本誌「REC」"}],"$undefined",["$","p",null,{"className":"mt-3 max-w-2xl text-[14px] leading-relaxed text-white/85 sm:text-[16px]","children":"週刊エコノミスト本誌の見開き人物インタビュー。新規取材が必須"}],"$undefined"]}],["$","nav",null,{"aria-label":"現在地","className":"crumb-band px-4 py-3 sm:py-4","children":["$","ol",null,{"className":"no-scrollbar mx-auto flex max-w-6xl items-center gap-2 overflow-x-auto whitespace-nowrap text-[13px] sm:flex-wrap sm:overflow-visible sm:whitespace-normal","children":[["$","li","0",{"className":"flex shrink-0 items-center gap-2","children":[false,["$","$Le",null,{"href":"/","className":"crumb-link","children":"TOP"}]]}],["$","li","1",{"className":"flex shrink-0 items-center gap-2","children":[["$","span",null,{"aria-hidden":true,"children":">"}],["$","$Le",null,{"href":"/c/product/","className":"crumb-link","children":"プロダクト"}]]}],["$","li","2",{"className":"flex shrink-0 items-center gap-2","children":[["$","span",null,{"aria-hidden":true,"children":">"}],["$","$Le",null,{"href":"/c/product/#%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%EF%BC%9A%E8%AA%8C%E9%9D%A2%E3%83%BB%E6%9B%B8%E7%B1%8D%E3%83%BB%E5%BA%83%E5%91%8A%E3%83%BB%E3%81%9D%E3%81%AE%E4%BB%96","className":"crumb-link","children":"メディア：誌面・書籍・広告・その他"}]]}],["$","li","3",{"className":"flex shrink-0 items-center gap-2","children":[["$","span",null,{"aria-hidden":true,"children":">"}],["$","span",null,{"children":"週刊エコノミスト本誌「REC」"}]]}]]}]}],null,[false,["$","div",null,{"className":"mx-auto max-w-6xl px-4 pt-6 ","children":[false,["$","div",null,{"className":"min-w-0 xl:col-start-2 xl:row-start-1","children":[["$","section",null,{"className":"grid items-start gap-6 ","children":[false,["$","div",null,{"className":"prose-wiki","dangerouslySetInnerHTML":{"__html":"<blockquote>\n<p>公開デモのため本文は伏せています。見出しだけ表示しています。</p>\n</blockquote>"}}]]}],["$","div",null,{"className":"mt-8 flex flex-col gap-8","children":[["$","section","s1",{"id":"s1","className":"scroll-mt-20","children":[["$","h2",null,{"className":"head-bar flex items-baseline","children":[["$","span",null,{"className":"sec-no","children":"01"}],"このページの見出し"]}],["$","div",null,{"className":"prose-wiki px-1 pt-3","dangerouslySetInnerHTML":{"__html":"\n<div class=\"tags\"><span class=\"tag\">ひとことで</span><span class=\"tag\">概要</span><span class=\"tag\">掲載条件・考査</span><span class=\"tag\">公開日・スケジュール</span><span class=\"tag\">構成</span><span class=\"tag\">取材</span><span class=\"tag\">継続・二次利用</span><span class=\"tag\">共通ルールとの違い</span><span class=\"tag\">問い合わせ先</span></div>\n"}}]]}]]}],false,false,["$","section",null,{"className":"no-print mt-8","children":[["$","h2",null,{"className":"head-bar mb-4 !text-base","children":"メディア：誌面・書籍・広告・その他"}],["$","div",null,{"className":"grid grid-cols-2 gap-3 md:grid-cols-3","children":[["$","$Le","rec-magazine",{"href":"/p/rec-magazine/","className":"btn-light !justify-start !text-left !border-[var(--brand)] !text-[var(--brand)] ring-1 ring-[var(--brand)]","children":"週刊エコノミスト本誌「REC」"}],["$","$Le","newsweek-ad",{"href":"/p/newsweek-ad/","className":"btn-light !justify-start !text-left ","children":"Newsweek広告"}],["$","$Le","publishing",{"href":"/p/publishing/","className":"btn-light !justify-start !text-left ","children":"書籍"}],["$","$Le","leaders-award",{"href":"/p/leaders-award/","className":"btn-light !justify-start !text-left ","children":"LEADERS' AWARD"}],["$","$Le","free-media",{"href":"/p/free-media/","className":"btn-light !justify-start !text-left ","children":"無料媒体"}]]}]]}],"$Lf"]}]]}]],false,"$L10"]}],["$L11"],"$L12"]}],"p":"$@13","v":null,"s":"$9"}}]]
+a:[["children",{"s":{"n":"slug","t":"d","k":"rec-magazine","s":[]},"h":96,"d":{"r":["$","$2","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]]}],"p":"$@b","v":"$8","s":"$9"},"c":"$Qc"}]]
+1:[["children",{"s":"p","h":64,"d":{"r":["$","$2","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]]}],"p":"$@7","v":"$8","s":"$9"},"c":"$Qa"}]]
+0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[null,["$","$L15",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L17",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$18",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"週刊エコノミスト本誌「REC」｜Enjin WIKI"}],["$","meta","1",{"name":"description","content":"Enjin Latest encyclopedia"}],["$","link","2",{"rel":"icon","href":"/enjin-wiki-demo/icon.svg?icon.29mgbamraqu0i.svg","sizes":"any","type":"image/svg+xml"}],["$","$L19","3",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@1a","v":null,"s":"$9"}},"a":"$@1b","u":"$@1c","b":"zhLANZtQDvX1NTSmn38oo"}
+1d:I[35631,["$3","$4","$d"],"default"]
+1e:I[81846,["$3","$4"],"OutletBoundary"]
+f:["$","section",null,{"className":"mt-8 flex flex-col gap-3 text-sm text-[var(--mute)] sm:flex-row sm:items-start sm:justify-between","children":[["$","dl",null,{"className":"grid grid-cols-[auto_1fr] gap-x-4 gap-y-1","children":[["$","dt",null,{"children":"担当"}],["$","dd",null,{"className":"font-bold text-[var(--ink)]","children":"PM事業部 クリエイティブ課"}],["$","dt",null,{"children":"最終確認"}],["$","dd",null,{"children":"—"}],false]}],false]}]
+10:["$","$L1d",null,{}]
+11:["$","script","script-0",{"src":"/enjin-wiki-demo/_next/static/chunks/02cxx-5ksobby.js","async":true}]
+12:["$","$L1e",null,{"children":["$","$18",null,{"name":"Next.MetadataOutlet","children":"$@1f"}]}]
+1c:true
+9:300
+1f:null
+9:C
+1b:0
+b:"$undefined"
+7:"$undefined"
+1a:"$undefined"
+13:"$undefined"

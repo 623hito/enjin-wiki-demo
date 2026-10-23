@@ -1,0 +1,40 @@
+2:"$Sreact.fragment"
+3:"/enjin-wiki-demo/_next/static/chunks/109ty_91-qqwo.js"
+4:"/enjin-wiki-demo/_next/static/chunks/31ch76hk_tg6g.js"
+5:I[13111,["$3","$4"],"default"]
+6:I[24191,["$3","$4"],"default"]
+d:"/enjin-wiki-demo/_next/static/chunks/02cxx-5ksobby.js"
+e:I[98449,["$3","$4","$d"],""]
+f:I[91231,["$3","$4","$d"],"ReadButton"]
+19:"ViewportBoundary"
+1a:I[81846,["$3","$4"],"$19"]
+1b:"MetadataBoundary"
+1c:I[81846,["$3","$4"],"$1b"]
+1d:"$Sreact.suspense"
+1e:I[19779,["$3","$4"],"IconMark"]
+8:X
+8:C
+9:X
+c:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[["$","main",null,{"children":[["$","section",null,{"className":"hero flex flex-col items-center justify-center px-4 text-center min-h-[7rem] py-5 sm:min-h-[10.5rem] sm:py-8","children":[["$","p",null,{"className":"mb-1 text-sm tracking-[.2em] text-white/85 sm:mb-2 sm:text-lg sm:tracking-[.25em]","children":"Sales"}],["$","h1",null,{"className":"font-bold drop-shadow text-[1.7rem] leading-snug sm:text-5xl tracking-[.06em] sm:tracking-[.2em]","style":{"textWrap":"balance"},"children":"契約内容を変えるとき"}],"$undefined",["$","p",null,{"className":"mt-3 max-w-2xl text-[14px] leading-relaxed text-white/85 sm:text-[16px]","children":"Salesforceの「契約情報変更」から申請。重要な変更はメールのエビデンス必須"}],"$undefined"]}],["$","nav",null,{"aria-label":"現在地","className":"crumb-band px-4 py-3 sm:py-4","children":["$","ol",null,{"className":"no-scrollbar mx-auto flex max-w-6xl items-center gap-2 overflow-x-auto whitespace-nowrap text-[13px] sm:flex-wrap sm:overflow-visible sm:whitespace-normal","children":[["$","li","0",{"className":"flex shrink-0 items-center gap-2","children":[false,["$","$Le",null,{"href":"/","className":"crumb-link","children":"TOP"}]]}],["$","li","1",{"className":"flex shrink-0 items-center gap-2","children":[["$","span",null,{"aria-hidden":true,"children":">"}],["$","$Le",null,{"href":"/c/eigyo/","className":"crumb-link","children":"営業"}]]}],["$","li","2",{"className":"flex shrink-0 items-center gap-2","children":[["$","span",null,{"aria-hidden":true,"children":">"}],["$","$Le",null,{"href":"/c/eigyo/#%E2%91%A4%20%E5%A4%89%E6%9B%B4%E3%83%BB%E3%82%AD%E3%83%A3%E3%83%B3%E3%82%BB%E3%83%AB%E3%83%BB%E7%B6%99%E7%B6%9A","className":"crumb-link","children":"⑤ 変更・キャンセル・継続"}]]}],["$","li","3",{"className":"flex shrink-0 items-center gap-2","children":[["$","span",null,{"aria-hidden":true,"children":">"}],["$","span",null,{"children":"契約内容を変えるとき"}]]}]]}]}],null,[false,["$","div",null,{"className":"mx-auto max-w-6xl px-4 pt-6 ","children":[false,["$","div",null,{"className":"min-w-0 xl:col-start-2 xl:row-start-1","children":[["$","section",null,{"className":"grid items-start gap-6 ","children":[false,["$","div",null,{"className":"prose-wiki","dangerouslySetInnerHTML":{"__html":"<blockquote>\n<p>公開デモのため本文は伏せています。見出しだけ表示しています。</p>\n</blockquote>"}}]]}],["$","div",null,{"className":"mt-8 flex flex-col gap-8","children":[["$","section","s1",{"id":"s1","className":"scroll-mt-20","children":[["$","h2",null,{"className":"head-bar flex items-baseline","children":[["$","span",null,{"className":"sec-no","children":"01"}],"このページの見出し"]}],["$","div",null,{"className":"prose-wiki px-1 pt-3","dangerouslySetInnerHTML":{"__html":"\n<ul class=\"rows\"><li>ひとことで</li><li>どの型を使うか</li><li>申請の流れ</li><li>「変更理由」「変更前」「変更後」の書き方</li><li>申請フォーマット（種別ごと）</li><li>エビデンス資料</li><li>エビデンスメールの型</li><li>請求書の発行・送付の注意</li><li>承認フローの注意</li><li>問い合わせ先</li></ul>\n"}}]]}]]}],["$","section",null,{"className":"no-print mt-10 flex flex-col gap-3 rounded-2xl border border-[var(--accent-line)] bg-white p-4 sm:flex-row sm:items-center sm:gap-5 sm:p-5","children":[["$","span",null,{"className":"flex min-w-0 flex-1 flex-col gap-1","children":[["$","span",null,{"className":"label-en","children":"ONBOARDING"}],["$","span",null,{"className":"text-[14px] text-[var(--ink)]","children":"このページはオンボーディングのコースに入っています。読み終えたら記録すると、コースの進み具合に反映されます。"}],["$","span",null,{"className":"flex flex-wrap gap-2 pt-1","children":[["$","$Le","eigyo",{"href":"/learn/eigyo/","className":"chip text-[13px]","children":["新人プランナー（B事業）","・","3か月目"," ›"]}]]}]]}],["$","$Lf",null,{"slug":"contract-change"}]]}],false,["$","section",null,{"className":"no-print mt-8","children":[["$","h2",null,{"className":"head-bar mb-4 !text-base","children":"⑤ 変更・キャンセル・継続"}],["$","div",null,{"className":"grid grid-cols-2 gap-3 md:grid-cols-3","children":[["$","$Le","contract-change",{"href":"/p/contract-change/","className":"btn-light !justify-start !text-left !border-[var(--brand)] !text-[var(--brand)] ring-1 ring-[var(--brand)]","children":"契約内容を変えるとき"}],"$L10","$L11","$L12","$L13"]}]]}],"$L14"]}]]}]],false,"$L15"]}],["$L16"],"$L17"]}],"p":"$@18","v":null,"s":"$9"}}]]
+a:[["children",{"s":{"n":"slug","t":"d","k":"contract-change","s":[]},"h":96,"d":{"r":["$","$2","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]]}],"p":"$@b","v":"$8","s":"$9"},"c":"$Qc"}]]
+1:[["children",{"s":"p","h":64,"d":{"r":["$","$2","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]]}],"p":"$@7","v":"$8","s":"$9"},"c":"$Qa"}]]
+0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[null,["$","$L1a",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L1c",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$1d",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"契約内容を変えるとき｜Enjin WIKI"}],["$","meta","1",{"name":"description","content":"Enjin Latest encyclopedia"}],["$","link","2",{"rel":"icon","href":"/enjin-wiki-demo/icon.svg?icon.29mgbamraqu0i.svg","sizes":"any","type":"image/svg+xml"}],["$","$L1e","3",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@1f","v":null,"s":"$9"}},"a":"$@20","u":"$@21","b":"zhLANZtQDvX1NTSmn38oo"}
+22:I[35631,["$3","$4","$d"],"default"]
+23:I[81846,["$3","$4"],"OutletBoundary"]
+10:["$","$Le","cancel",{"href":"/p/cancel/","className":"btn-light !justify-start !text-left ","children":"キャンセルのルール"}]
+11:["$","$Le","refund",{"href":"/p/refund/","className":"btn-light !justify-start !text-left ","children":"返金するとき"}]
+12:["$","$Le","continuation",{"href":"/p/continuation/","className":"btn-light !justify-start !text-left ","children":"継続案件"}]
+13:["$","$Le","client-relation",{"href":"/p/client-relation/","className":"btn-light !justify-start !text-left ","children":"クライアントとの年間のおつきあい"}]
+14:["$","section",null,{"className":"mt-8 flex flex-col gap-3 text-sm text-[var(--mute)] sm:flex-row sm:items-start sm:justify-between","children":[["$","dl",null,{"className":"grid grid-cols-[auto_1fr] gap-x-4 gap-y-1","children":[["$","dt",null,{"children":"担当"}],["$","dd",null,{"className":"font-bold text-[var(--ink)]","children":"PR事業部"}],["$","dt",null,{"children":"最終確認"}],["$","dd",null,{"children":"—"}],false]}],false]}]
+15:["$","$L22",null,{}]
+16:["$","script","script-0",{"src":"/enjin-wiki-demo/_next/static/chunks/02cxx-5ksobby.js","async":true}]
+17:["$","$L23",null,{"children":["$","$1d",null,{"name":"Next.MetadataOutlet","children":"$@24"}]}]
+21:true
+9:300
+24:null
+9:C
+20:0
+b:"$undefined"
+7:"$undefined"
+1f:"$undefined"
+18:"$undefined"

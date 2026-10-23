@@ -1,0 +1,36 @@
+2:"$Sreact.fragment"
+3:"/enjin-wiki-demo/_next/static/chunks/109ty_91-qqwo.js"
+4:"/enjin-wiki-demo/_next/static/chunks/31ch76hk_tg6g.js"
+5:I[13111,["$3","$4"],"default"]
+6:I[24191,["$3","$4"],"default"]
+d:"/enjin-wiki-demo/_next/static/chunks/02cxx-5ksobby.js"
+e:I[98449,["$3","$4","$d"],""]
+f:I[91231,["$3","$4","$d"],"ReadButton"]
+15:"ViewportBoundary"
+16:I[81846,["$3","$4"],"$15"]
+17:"MetadataBoundary"
+18:I[81846,["$3","$4"],"$17"]
+19:"$Sreact.suspense"
+1a:I[19779,["$3","$4"],"IconMark"]
+8:X
+8:C
+9:X
+c:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[["$","main",null,{"children":[["$","section",null,{"className":"hero flex flex-col items-center justify-center px-4 text-center min-h-[7rem] py-5 sm:min-h-[10.5rem] sm:py-8","children":[["$","p",null,{"className":"mb-1 text-sm tracking-[.2em] text-white/85 sm:mb-2 sm:text-lg sm:tracking-[.25em]","children":"Systems & Requests"}],["$","h1",null,{"className":"font-bold drop-shadow text-[1.7rem] leading-snug sm:text-5xl tracking-[.06em] sm:tracking-[.2em]","style":{"textWrap":"balance"},"children":"諸手続き"}],"$undefined",["$","p",null,{"className":"mt-3 max-w-2xl text-[14px] leading-relaxed text-white/85 sm:text-[16px]","children":"住所は引っ越しの前に労務へ。副業は Salesforce の稟議で申請"}],"$undefined"]}],["$","nav",null,{"aria-label":"現在地","className":"crumb-band px-4 py-3 sm:py-4","children":["$","ol",null,{"className":"no-scrollbar mx-auto flex max-w-6xl items-center gap-2 overflow-x-auto whitespace-nowrap text-[13px] sm:flex-wrap sm:overflow-visible sm:whitespace-normal","children":[["$","li","0",{"className":"flex shrink-0 items-center gap-2","children":[false,["$","$Le",null,{"href":"/","className":"crumb-link","children":"TOP"}]]}],["$","li","1",{"className":"flex shrink-0 items-center gap-2","children":[["$","span",null,{"aria-hidden":true,"children":">"}],["$","$Le",null,{"href":"/c/seido/","className":"crumb-link","children":"制度・申請"}]]}],["$","li","2",{"className":"flex shrink-0 items-center gap-2","children":[["$","span",null,{"aria-hidden":true,"children":">"}],["$","$Le",null,{"href":"/c/seido/#%E5%8B%A4%E6%80%A0%E3%83%BB%E4%BC%91%E6%9A%87","className":"crumb-link","children":"勤怠・休暇"}]]}],["$","li","3",{"className":"flex shrink-0 items-center gap-2","children":[["$","span",null,{"aria-hidden":true,"children":">"}],["$","span",null,{"children":"諸手続き"}]]}]]}]}],null,[false,["$","div",null,{"className":"mx-auto max-w-6xl px-4 pt-6 ","children":[false,["$","div",null,{"className":"min-w-0 xl:col-start-2 xl:row-start-1","children":[["$","section",null,{"className":"grid items-start gap-6 ","children":[false,["$","div",null,{"className":"prose-wiki","dangerouslySetInnerHTML":{"__html":"<blockquote>\n<p>公開デモのため本文は伏せています。見出しだけ表示しています。</p>\n</blockquote>"}}]]}],["$","div",null,{"className":"mt-8 flex flex-col gap-8","children":[["$","section","s1",{"id":"s1","className":"scroll-mt-20","children":[["$","h2",null,{"className":"head-bar flex items-baseline","children":[["$","span",null,{"className":"sec-no","children":"01"}],"このページの見出し"]}],["$","div",null,{"className":"prose-wiki px-1 pt-3","dangerouslySetInnerHTML":{"__html":"\n<div class=\"tags\"><span class=\"tag\">ひとことで</span><span class=\"tag\">氏名変更</span><span class=\"tag\">住所変更</span><span class=\"tag\">副業・兼業</span><span class=\"tag\">内容証明などが届いたとき</span></div>\n"}}]]}]]}],["$","section",null,{"className":"no-print mt-10 flex flex-col gap-3 rounded-2xl border border-[var(--accent-line)] bg-white p-4 sm:flex-row sm:items-center sm:gap-5 sm:p-5","children":[["$","span",null,{"className":"flex min-w-0 flex-1 flex-col gap-1","children":[["$","span",null,{"className":"label-en","children":"ONBOARDING"}],["$","span",null,{"className":"text-[14px] text-[var(--ink)]","children":"このページはオンボーディングのコースに入っています。読み終えたら記録すると、コースの進み具合に反映されます。"}],["$","span",null,{"className":"flex flex-wrap gap-2 pt-1","children":[["$","$Le","zensha",{"href":"/learn/zensha/","className":"chip text-[13px]","children":["入社1週目（全員）","・","1週目のうちに"," ›"]}]]}]]}],["$","$Lf",null,{"slug":"tetsuzuki"}]]}],false,["$","section",null,{"className":"no-print mt-8","children":[["$","h2",null,{"className":"head-bar mb-4 !text-base","children":"勤怠・休暇"}],["$","div",null,{"className":"grid grid-cols-2 gap-3 md:grid-cols-3","children":[["$","$Le","kinmu",{"href":"/p/kinmu/","className":"btn-light !justify-start !text-left ","children":"勤務時間・打刻・残業"}],["$","$Le","kyuka",{"href":"/p/kyuka/","className":"btn-light !justify-start !text-left ","children":"休暇の取り方"}],["$","$Le","tetsuzuki",{"href":"/p/tetsuzuki/","className":"btn-light !justify-start !text-left !border-[var(--brand)] !text-[var(--brand)] ring-1 ring-[var(--brand)]","children":"諸手続き（氏名・住所・副業）"}]]}]]}],"$L10"]}]]}]],false,"$L11"]}],["$L12"],"$L13"]}],"p":"$@14","v":null,"s":"$9"}}]]
+a:[["children",{"s":{"n":"slug","t":"d","k":"tetsuzuki","s":[]},"h":96,"d":{"r":["$","$2","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]]}],"p":"$@b","v":"$8","s":"$9"},"c":"$Qc"}]]
+1:[["children",{"s":"p","h":64,"d":{"r":["$","$2","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]]}],"p":"$@7","v":"$8","s":"$9"},"c":"$Qa"}]]
+0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[null,["$","$L16",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L18",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$19",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"諸手続き｜Enjin WIKI"}],["$","meta","1",{"name":"description","content":"Enjin Latest encyclopedia"}],["$","link","2",{"rel":"icon","href":"/enjin-wiki-demo/icon.svg?icon.29mgbamraqu0i.svg","sizes":"any","type":"image/svg+xml"}],["$","$L1a","3",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@1b","v":null,"s":"$9"}},"a":"$@1c","u":"$@1d","b":"zhLANZtQDvX1NTSmn38oo"}
+1e:I[35631,["$3","$4","$d"],"default"]
+1f:I[81846,["$3","$4"],"OutletBoundary"]
+10:["$","section",null,{"className":"mt-8 flex flex-col gap-3 text-sm text-[var(--mute)] sm:flex-row sm:items-start sm:justify-between","children":[["$","dl",null,{"className":"grid grid-cols-[auto_1fr] gap-x-4 gap-y-1","children":[["$","dt",null,{"children":"担当"}],["$","dd",null,{"className":"font-bold text-[var(--ink)]","children":"人事部（労務）"}],["$","dt",null,{"children":"最終確認"}],["$","dd",null,{"children":"2026-10-14"}],false]}],false]}]
+11:["$","$L1e",null,{}]
+12:["$","script","script-0",{"src":"/enjin-wiki-demo/_next/static/chunks/02cxx-5ksobby.js","async":true}]
+13:["$","$L1f",null,{"children":["$","$19",null,{"name":"Next.MetadataOutlet","children":"$@20"}]}]
+1d:true
+9:300
+20:null
+9:C
+1c:0
+b:"$undefined"
+7:"$undefined"
+1b:"$undefined"
+14:"$undefined"
