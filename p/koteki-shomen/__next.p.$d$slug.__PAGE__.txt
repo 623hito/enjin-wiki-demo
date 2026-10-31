@@ -1,0 +1,45 @@
+2:"$Sreact.fragment"
+3:"/enjin-wiki-demo/_next/static/chunks/109ty_91-qqwo.js"
+4:"/enjin-wiki-demo/_next/static/chunks/15gwvn4-sg7pp.js"
+5:I[13111,["$3","$4"],"default"]
+6:I[24191,["$3","$4"],"default"]
+d:"/enjin-wiki-demo/_next/static/chunks/3cs841b8b39ia.js"
+e:"/enjin-wiki-demo/_next/static/chunks/1_3ul8taxamwl.js"
+f:I[98449,["$3","$4","$d","$e"],""]
+10:I[12669,["$3","$4","$d","$e"],"default"]
+11:I[59509,["$3","$4","$d","$e"],"default"]
+12:I[37790,["$3","$4","$d","$e"],"default"]
+13:I[22976,["$3","$4","$d","$e"],"default"]
+14:I[41086,["$3","$4","$d","$e"],"default"]
+1e:"ViewportBoundary"
+1f:I[81846,["$3","$4"],"$1e"]
+20:"MetadataBoundary"
+21:I[81846,["$3","$4"],"$20"]
+22:"$Sreact.suspense"
+23:I[19779,["$3","$4"],"IconMark"]
+8:X
+8:C
+9:X
+c:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[["$","main",null,{"children":[["$","section",null,{"className":"hero page-head px-4 py-4 sm:py-6","children":["$","div",null,{"className":"relative mx-auto max-w-6xl lg:grid lg:max-w-[80rem] lg:grid-cols-[11rem_minmax(0,1fr)] lg:gap-8 xl:max-w-[96rem] xl:grid-cols-[12rem_minmax(0,1fr)_12rem]","children":["$","div",null,{"className":"lg:col-start-2","children":[["$","nav",null,{"aria-label":"現在地","className":"no-print","children":["$","ol",null,{"className":"no-scrollbar flex items-center gap-1.5 overflow-x-auto whitespace-nowrap text-[13px] text-white/80 sm:flex-wrap sm:overflow-visible","children":[["$","li","0",{"className":"flex shrink-0 items-center gap-1.5","children":[false,["$","$Lf",null,{"href":"/","className":"crumb-link","children":"TOP"}]]}],["$","li","1",{"className":"flex shrink-0 items-center gap-1.5","children":[["$","span",null,{"aria-hidden":true,"className":"text-white/45","children":"›"}],["$","$Lf",null,{"href":"/c/kihon/","className":"crumb-link","children":"基本情報"}]]}],["$","li","2",{"className":"flex shrink-0 items-center gap-1.5","children":[["$","span",null,{"aria-hidden":true,"className":"text-white/45","children":"›"}],["$","$Lf",null,{"href":"/c/kihon/#%E3%81%B5%E3%82%8B%E3%81%BE%E3%81%84%E3%81%AE%E3%83%AB%E3%83%BC%E3%83%AB","className":"crumb-link","children":"ふるまいのルール"}]]}]]}]}],["$","h1",null,{"className":"mt-2.5 text-[1.55rem] font-bold leading-snug tracking-[.04em] drop-shadow sm:mt-3 sm:text-[2rem]","style":{"textWrap":"balance"},"children":"内容証明など公的書面が届いたら"}],""]}]}]}],null,[false,["$","div",null,{"className":"mx-auto max-w-6xl px-4 pt-6 lg:grid lg:max-w-[80rem] lg:grid-cols-[11rem_minmax(0,1fr)] lg:items-start lg:gap-8 lg:pt-8 xl:max-w-[96rem] xl:grid-cols-[12rem_minmax(0,1fr)_12rem]","children":[["$","aside",null,{"className":"no-print sticky top-20 hidden max-h-[calc(100vh-6rem)] overflow-y-auto pb-4 lg:col-start-1 lg:row-start-1 lg:block","children":["$","$L10",null,{"sections":[{"id":"s1","title":"このページの見出し"}],"actions":["$","$L11",null,{}]}]}],["$","div",null,{"className":"min-w-0 lg:col-start-2 lg:row-start-1","children":[["$","section",null,{"className":"grid items-start gap-6 ","children":[false,["$","div",null,{"className":"prose-wiki","dangerouslySetInnerHTML":{"__html":"<blockquote>\n<p>公開デモのため本文は伏せています。見出しだけ表示しています。</p>\n</blockquote>"}}]]}],["$","$L12",null,{}],["$","$L13",null,{}],["$","$L14",null,{}],false,["$","div",null,{"className":"flex flex-col mt-8 gap-8","children":[["$","section","s1",{"id":"s1","className":"scroll-mt-20","children":[["$","h2",null,{"className":"head-bar flex items-baseline","children":[["$","span",null,{"className":"sec-no","children":"01"}],"このページの見出し"]}],"$undefined",["$","div",null,{"className":"prose-wiki px-1 pt-3","dangerouslySetInnerHTML":{"__html":"\n<div class=\"tags\"><span class=\"tag\">ひとことで</span><span class=\"tag\">内容証明などが届いたら</span><span class=\"tag\">債務整理・破産の通知が届いたら</span></div>\n"}}]]}]]}],false,["$","section",null,{"className":"no-print mt-10 rounded-2xl border border-[#dad8d8] bg-white p-4 sm:p-5","children":["$","div",null,{"className":"grid gap-6 ","children":[false,["$","div",null,{"className":"min-w-0","children":[["$","h2",null,{"className":"next-h","children":["同じまとまり：","ふるまいのルール"]}],["$","ul",null,{"className":"next-list","children":[["$","li","chat-mail",{"children":["$","$Lf",null,{"href":"/p/chat-mail/","className":"next-row","children":[["$","b",null,{"children":"チャットとメールのルール"}],["$","span",null,{"aria-hidden":true,"className":"next-go","children":"›"}]]}]}],["$","li","ai-rule",{"children":["$","$Lf",null,{"href":"/p/ai-rule/","className":"next-row","children":[["$","b",null,{"children":"生成AIの利用ルール"}],["$","span",null,{"aria-hidden":true,"className":"next-go","children":"›"}]]}]}],["$","li","koteki-shomen",{"children":["$","span",null,{"className":"next-row next-now","aria-current":"page","children":[["$","b",null,{"children":"内容証明など公的書面が届いたら"}],["$","span",null,{"className":"next-tag","children":"いまのページ"}]]}]}]]}]]}]]}]}],["$","section",null,{"className":"mt-8 flex flex-col gap-3 text-sm text-[var(--mute)] sm:flex-row sm:items-start sm:justify-between","children":[["$","dl",null,{"className":"grid grid-cols-[auto_1fr] gap-x-4 gap-y-1","children":["$L15","$L16","$L17","$L18",false,false]}],false]}]]}]]}]],false,"$L19"]}],["$L1a","$L1b"],"$L1c"]}],"p":"$@1d","v":null,"s":"$9"}}]]
+a:[["children",{"s":{"n":"slug","t":"d","k":"koteki-shomen","s":[]},"h":96,"d":{"r":["$","$2","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]]}],"p":"$@b","v":"$8","s":"$9"},"c":"$Qc"}]]
+1:[["children",{"s":"p","h":64,"d":{"r":["$","$2","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]]}],"p":"$@7","v":"$8","s":"$9"},"c":"$Qa"}]]
+0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[null,["$","$L1f",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L21",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$22",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"内容証明など公的書面が届いたら｜Enjin WIKI"}],["$","meta","1",{"name":"description","content":"Enjin Latest encyclopedia"}],["$","link","2",{"rel":"icon","href":"/enjin-wiki-demo/icon.svg?icon.29mgbamraqu0i.svg","sizes":"any","type":"image/svg+xml"}],["$","$L23","3",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@24","v":null,"s":"$9"}},"a":"$@25","u":"$@26","b":"JdmQm0YgyzFu78-ekdf7K"}
+27:I[35631,["$3","$4","$d","$e"],"default"]
+28:I[81846,["$3","$4"],"OutletBoundary"]
+15:["$","dt",null,{"children":"担当"}]
+16:["$","dd",null,{"className":"font-bold text-[var(--ink)]","children":"PR事業部"}]
+17:["$","dt",null,{"children":"最終確認"}]
+18:["$","dd",null,{"children":"—"}]
+19:["$","$L27",null,{}]
+1a:["$","script","script-0",{"src":"/enjin-wiki-demo/_next/static/chunks/3cs841b8b39ia.js","async":true}]
+1b:["$","script","script-1",{"src":"/enjin-wiki-demo/_next/static/chunks/1_3ul8taxamwl.js","async":true}]
+1c:["$","$L28",null,{"children":["$","$22",null,{"name":"Next.MetadataOutlet","children":"$@29"}]}]
+26:true
+9:300
+29:null
+9:C
+25:0
+b:"$undefined"
+7:"$undefined"
+24:"$undefined"
+1d:"$undefined"

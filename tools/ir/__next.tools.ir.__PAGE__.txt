@@ -1,0 +1,31 @@
+2:"$Sreact.fragment"
+3:"/enjin-wiki-demo/_next/static/chunks/109ty_91-qqwo.js"
+4:"/enjin-wiki-demo/_next/static/chunks/15gwvn4-sg7pp.js"
+5:I[13111,["$3","$4"],"default"]
+6:I[24191,["$3","$4"],"default"]
+d:"/enjin-wiki-demo/_next/static/chunks/0294rwya_t4rg.js"
+e:"/enjin-wiki-demo/_next/static/chunks/0lpy5zr49card.js"
+f:I[98449,["$3","$4","$d","$e"],""]
+10:I[81846,["$3","$4"],"OutletBoundary"]
+11:"$Sreact.suspense"
+14:"ViewportBoundary"
+15:I[81846,["$3","$4"],"$14"]
+16:"MetadataBoundary"
+17:I[81846,["$3","$4"],"$16"]
+18:I[19779,["$3","$4"],"IconMark"]
+8:X
+8:C
+9:X
+c:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[["$","main",null,{"children":[["$","section",null,{"className":"hero flex flex-col items-center justify-center px-4 text-center min-h-[6.5rem] py-5 sm:min-h-[7.5rem] sm:py-6","children":["$undefined",["$","h1",null,{"className":"font-bold drop-shadow text-2xl sm:text-3xl tracking-[.06em] sm:tracking-[.2em]","style":{"textWrap":"balance"},"children":"IR 決算説明資料"}],"$undefined","$undefined","$undefined"]}],["$","div",null,{"className":"mx-auto flex max-w-4xl flex-col gap-6 px-3 pb-16 pt-4 sm:px-4 sm:pt-8","children":[["$","p",null,{"className":"text-[14px] text-[var(--mute)]","children":[["$","$Lf",null,{"href":"/c/ai/","className":"underline","children":"AIツール"}]," ／ 決算短信のPDFを入れると、決算パートのページがパワポでできます。ファイルはこのブラウザの中だけで扱い、外へは送りません。"]}],["$","p",null,{"className":"info-card p-5 text-[15px]","children":"このツールは社内版のWIKIでだけ動きます（公開デモには、会社の資料から作ったひな形を置いていないため）。"}]]}]]}],[["$","script","script-0",{"src":"/enjin-wiki-demo/_next/static/chunks/0294rwya_t4rg.js","async":true}],["$","script","script-1",{"src":"/enjin-wiki-demo/_next/static/chunks/0lpy5zr49card.js","async":true}]],["$","$L10",null,{"children":["$","$11",null,{"name":"Next.MetadataOutlet","children":"$@12"}]}]]}],"p":"$@13","v":null,"s":"$9"}}]]
+a:[["children",{"s":"ir","h":96,"d":{"r":["$","$2","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]]}],"p":"$@b","v":"$8","s":"$9"},"c":"$Qc"}]]
+1:[["children",{"s":"tools","h":64,"d":{"r":["$","$2","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]]}],"p":"$@7","v":"$8","s":"$9"},"c":"$Qa"}]]
+0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[null,["$","$L15",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L17",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$11",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"IR 決算説明資料｜Enjin WIKI"}],["$","meta","1",{"name":"description","content":"Enjin Latest encyclopedia"}],["$","link","2",{"rel":"icon","href":"/enjin-wiki-demo/icon.svg?icon.29mgbamraqu0i.svg","sizes":"any","type":"image/svg+xml"}],["$","$L18","3",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@19","v":null,"s":"$9"}},"a":"$@1a","u":"$@1b","b":"JdmQm0YgyzFu78-ekdf7K"}
+12:null
+1b:true
+9:300
+9:C
+1a:0
+b:"$undefined"
+7:"$undefined"
+19:"$undefined"
+13:"$undefined"
